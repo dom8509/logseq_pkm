@@ -392,10 +392,9 @@ html ::-webkit-scrollbar-thumb:hover {
   border-bottom: unset;
 }
 .content a.tag {
-  background: var(--ls-primary-background-color);
   color: var(--ls-icon-color);
   padding: 0px 0px 0px 0px;
-  font-size: 13px;
+  font-size: 15px;
   border-radius: 0px 0px 0px 0px;
 }
 .content a.tag:hover {
@@ -494,7 +493,7 @@ html ::-webkit-scrollbar-thumb:hover {
   position: relative;
   box-shadow: 0px 1px 3px -1px var(--ls-secondary-text-color), 0px -1px 5px var(--ls-secondary-background-color);
   margin-right: 0.5em;
-  margin: 0 0.4em 0 0.1em;
+  margin: 0 0.8em 0 0.1em;
 }
 .content a.tag[data-ref*=permanent]::after, .content a.tag[data-ref*=permanent]::before {
   left: 100%;
