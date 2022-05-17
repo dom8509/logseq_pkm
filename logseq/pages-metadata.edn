@@ -1,0 +1,330 @@
+[{:block/name "a",
+  :block/created-at 1651927636723,
+  :block/updated-at 1651927636723}
+ {:block/name "apr 23rd, 2017",
+  :block/created-at 1652630057165,
+  :block/updated-at 1652630057165}
+ {:block/name "areas",
+  :block/created-at 1652634848781,
+  :block/updated-at 1652634874289}
+ {:block/name "atg",
+  :block/created-at 1651937282025,
+  :block/updated-at 1651937282025}
+ {:block/name "aug 14th, 2016",
+  :block/created-at 1652630055645,
+  :block/updated-at 1652630055645}
+ {:block/name "b",
+  :block/created-at 1651927636723,
+  :block/updated-at 1651927636723}
+ {:block/name "best self",
+  :block/created-at 1652618739888,
+  :block/updated-at 1652618739888}
+ {:block/name "books",
+  :block/created-at 1652634744252,
+  :block/updated-at 1652634744252}
+ {:block/name "budokon mind science",
+  :block/created-at 1652627065110,
+  :block/updated-at 1652627065110}
+ {:block/name "c",
+  :block/created-at 1651927636723,
+  :block/updated-at 1651927636723}
+ {:block/name "card",
+  :block/created-at 1651927636723,
+  :block/updated-at 1651927636723}
+ {:block/name "chest to bar pullups",
+  :block/created-at 1651937282026,
+  :block/updated-at 1651937282026}
+ {:block/name "consumption",
+  :block/created-at 1652618966324,
+  :block/updated-at 1652618966324}
+ {:block/name "contents",
+  :block/created-at 1651927636723,
+  :block/updated-at 1651927636723}
+ {:block/name "creative note taking",
+  :block/created-at 1652377862454,
+  :block/updated-at 1652377862454}
+ {:block/name "daily",
+  :block/created-at 1652617968856,
+  :block/updated-at 1652617968856}
+ {:block/name "daily/habits",
+  :block/created-at 1652617968854,
+  :block/updated-at 1652618133133}
+ {:block/name "doing",
+  :block/created-at 1651927636723,
+  :block/updated-at 1651927636723}
+ {:block/name "done",
+  :block/created-at 1651927636723,
+  :block/updated-at 1651927636723}
+ {:block/name "dopamine",
+  :block/created-at 1652710735834,
+  :block/updated-at 1652710735834}
+ {:block/name "draws/2022-05-13-14-27-20.excalidraw",
+  :block/created-at 1652614542439,
+  :block/updated-at 1652614542439}
+ {:block/name "draws/2022-05-14-11-06-18.excalidraw",
+  :block/created-at 1652614542439,
+  :block/updated-at 1652614542439}
+ {:block/name "dreams",
+  :block/created-at 1652335619545,
+  :block/updated-at 1652335619545}
+ {:block/name "evening reflections",
+  :block/created-at 1652335619554,
+  :block/updated-at 1652335619554}
+ {:block/name "favorites",
+  :block/created-at 1651927636723,
+  :block/updated-at 1651927636723}
+ {:block/name "feb 18th, 2020",
+  :block/created-at 1652630066152,
+  :block/updated-at 1652630066152}
+ {:block/name "feb 1st, 2020",
+  :block/created-at 1652630064967,
+  :block/updated-at 1652630064967}
+ {:block/name "feb 22nd, 2020",
+  :block/created-at 1652630067108,
+  :block/updated-at 1652630067108}
+ {:block/name "fleeting",
+  :block/created-at 1652441970037,
+  :block/updated-at 1652441970037}
+ {:block/name "fleeting note",
+  :block/created-at 1652441724746,
+  :block/updated-at 1652441724746}
+ {:block/name "full range dips",
+  :block/created-at 1651937282028,
+  :block/updated-at 1651937282028}
+ {:block/name "getting things done",
+  :block/created-at 1652239007255,
+  :block/updated-at 1652239007255}
+ {:block/name "gratitude",
+  :block/created-at 1652335619540,
+  :block/updated-at 1652335619540}
+ {:block/name "gtd",
+  :block/created-at 1652333293120,
+  :block/updated-at 1652333293120}
+ {:block/name "idee",
+  :block/created-at 1652619227168,
+  :block/updated-at 1652619227168}
+ {:block/name "in-progress",
+  :block/created-at 1651927636723,
+  :block/updated-at 1651927636723}
+ {:block/name "inbox",
+  :block/created-at 1652277237872,
+  :block/updated-at 1652617771477}
+ {:block/name "insight",
+  :block/created-at 1652456142806,
+  :block/updated-at 1652456142806}
+ {:block/name "jan 10th, 2020",
+  :block/created-at 1652630062573,
+  :block/updated-at 1652630062573}
+ {:block/name "jan 18th, 2020",
+  :block/created-at 1652630063558,
+  :block/updated-at 1652630063558}
+ {:block/name "jan 3rd, 2016",
+  :block/created-at 1652630056359,
+  :block/updated-at 1652630056359}
+ {:block/name "jan 3rd, 2020",
+  :block/created-at 1652630061697,
+  :block/updated-at 1652630061697}
+ {:block/name "later",
+  :block/created-at 1651927636723,
+  :block/updated-at 1651927636723}
+ {:block/name "literature",
+  :block/created-at 1652443172135,
+  :block/updated-at 1652443172135}
+ {:block/name "literature note",
+  :block/created-at 1652443024931,
+  :block/updated-at 1652443172137}
+ {:block/name "logseq tasks",
+  :block/created-at 1652362472263,
+  :block/updated-at 1652362572271}
+ {:block/name "logseq workflow",
+  :block/created-at 1652333293720,
+  :block/updated-at 1652362393443}
+ {:block/name "long range pushups",
+  :block/created-at 1651941113289,
+  :block/updated-at 1651941113289}
+ {:block/name "long range triceps extensions",
+  :block/created-at 1651937282030,
+  :block/updated-at 1651937282030}
+ {:block/name "martin prescott",
+  :block/created-at 1652720036017,
+  :block/updated-at 1652720036017}
+ {:block/name "may 10th, 2022",
+  :block/created-at 1652180772087,
+  :block/updated-at 1652180945148}
+ {:block/name "may 11th, 2022",
+  :block/created-at 1652220109700,
+  :block/updated-at 1652619227169}
+ {:block/name "may 12th, 2022",
+  :block/created-at 1652306515797,
+  :block/updated-at 1652619472925}
+ {:block/name "may 13th, 2022",
+  :block/created-at 1652342056343,
+  :block/updated-at 1652632853039}
+ {:block/name "may 14th, 2022",
+  :block/created-at 1652486673931,
+  :block/updated-at 1652617856723}
+ {:block/name "may 15th, 2022",
+  :block/created-at 1652565689573,
+  :block/updated-at 1652634461217}
+ {:block/name "may 16th, 2022",
+  :block/created-at 1652630743777,
+  :block/updated-at 1652630743777}
+ {:block/name "may 17th, 2022",
+  :block/created-at 1652738481369,
+  :block/updated-at 1652791799236}
+ {:block/name "may 23rd, 2017",
+  :block/created-at 1652630058027,
+  :block/updated-at 1652630058027}
+ {:block/name "may 7th, 2022",
+  :block/created-at 1651926775990,
+  :block/updated-at 1651951968118}
+ {:block/name "may 8th, 2022",
+  :block/created-at 1651960921053,
+  :block/updated-at 1652013214930}
+ {:block/name "may 9th, 2022",
+  :block/created-at 1652097838565,
+  :block/updated-at 1652097838565}
+ {:block/name "meeting notes",
+  :block/created-at 1652335619547,
+  :block/updated-at 1652335619547}
+ {:block/name "morning pages",
+  :block/created-at 1652335619539,
+  :block/updated-at 1652335619539}
+ {:block/name "nordic",
+  :block/created-at 1652104662124,
+  :block/updated-at 1652104662124}
+ {:block/name "now",
+  :block/created-at 1651927636723,
+  :block/updated-at 1651927636723}
+ {:block/name "oct 11th, 2017",
+  :block/created-at 1652630058796,
+  :block/updated-at 1652630058796}
+ {:block/name "oct 12th, 2018",
+  :block/created-at 1652630060973,
+  :block/updated-at 1652630060973}
+ {:block/name "oct 14th, 2017",
+  :block/created-at 1652630055007,
+  :block/updated-at 1652630055007}
+ {:block/name "oct 15th, 2017",
+  :block/created-at 1652630059547,
+  :block/updated-at 1652630059547}
+ {:block/name "one thing to remember",
+  :block/created-at 1652335619543,
+  :block/updated-at 1652335619543}
+ {:block/name "permanent",
+  :block/created-at 1652441119479,
+  :block/updated-at 1652441119479}
+ {:block/name "permanent note",
+  :block/created-at 1652441105199,
+  :block/updated-at 1652441119481}
+ {:block/name "poliquin step-up",
+  :block/created-at 1652104662123,
+  :block/updated-at 1652104662123}
+ {:block/name "projects",
+  :block/created-at 1652285165218,
+  :block/updated-at 1652285165218}
+ {:block/name "projects/200h element yoga ausbildung",
+  :block/created-at 1652287584829,
+  :block/updated-at 1652287584829}
+ {:block/name "projects/logseq-kindle-clippings-importer",
+  :block/created-at 1652285165217,
+  :block/updated-at 1652519812997}
+ {:block/name "pushups",
+  :block/created-at 1652333293725,
+  :block/updated-at 1652333293725}
+ {:block/name "question",
+  :block/created-at 1652456142808,
+  :block/updated-at 1652456142808}
+ {:block/name "quit porn and get rich",
+  :block/created-at 1652620338327,
+  :block/updated-at 1652620338327}
+ {:block/name "quit porn and get rich (readwise)",
+  :block/created-at 1652720985780,
+  :block/updated-at 1652720985780}
+ {:block/name "readwise",
+  :block/created-at 1652720197611,
+  :block/updated-at 1652720197611}
+ {:block/name "reference note",
+  :block/created-at 1652622148700,
+  :block/updated-at 1652622148700}
+ {:block/name "relevant note",
+  :block/created-at 1652622163997,
+  :block/updated-at 1652622163997}
+ {:block/name "reverse nordic",
+  :block/created-at 1652104662125,
+  :block/updated-at 1652104662125}
+ {:block/name "rokp",
+  :block/created-at 1652104662121,
+  :block/updated-at 1652104662121}
+ {:block/name "sep 2nd, 2019",
+  :block/created-at 1652630054334,
+  :block/updated-at 1652630054334}
+ {:block/name "sönke ahrens",
+  :block/created-at 1652532936534,
+  :block/updated-at 1652532936534}
+ {:block/name "tattoo",
+  :block/created-at 1652617795883,
+  :block/updated-at 1652617795883}
+ {:block/name "templates",
+  :block/created-at 1652335618757,
+  :block/updated-at 1652620004806}
+ {:block/name "the mind illuminated",
+  :block/created-at 1652333293717,
+  :block/updated-at 1652333293717}
+ {:block/name "thinking about",
+  :block/created-at 1652335619541,
+  :block/updated-at 1652335619541}
+ {:block/name "tmi",
+  :block/created-at 1652333293778,
+  :block/updated-at 1652333293778}
+ {:block/name "to",
+  :block/created-at 1652456142716,
+  :block/updated-at 1652634921671}
+ {:block/name "to/buy",
+  :block/created-at 1652611448405,
+  :block/updated-at 1652611448405}
+ {:block/name "to/create",
+  :block/created-at 1652619179341,
+  :block/updated-at 1652619179341}
+ {:block/name "to/read",
+  :block/created-at 1652456142714,
+  :block/updated-at 1652456142714}
+ {:block/name "to/research",
+  :block/created-at 1652456142812,
+  :block/updated-at 1652456142812}
+ {:block/name "todo",
+  :block/created-at 1651927636723,
+  :block/updated-at 1651927636723}
+ {:block/name "toes to bar",
+  :block/created-at 1652333293726,
+  :block/updated-at 1652333293726}
+ {:block/name "training",
+  :block/created-at 1651937282024,
+  :block/updated-at 1651937282024}
+ {:block/name "wait",
+  :block/created-at 1651927636723,
+  :block/updated-at 1651927636723}
+ {:block/name "waiting",
+  :block/created-at 1651927636723,
+  :block/updated-at 1651927636723}
+ {:block/name "weekly review",
+  :block/created-at 1652611448402,
+  :block/updated-at 1652611448402}
+ {:block/name "what challenges are proving useful?",
+  :block/created-at 1652335619544,
+  :block/updated-at 1652335619544}
+ {:block/name "what could have gone better?",
+  :block/created-at 1652335619557,
+  :block/updated-at 1652335619557}
+ {:block/name "what happened today?",
+  :block/created-at 1652335619555,
+  :block/updated-at 1652335619555}
+ {:block/name "what is my goal for today?",
+  :block/created-at 1652335619546,
+  :block/updated-at 1652335619546}
+ {:block/name "what went well?",
+  :block/created-at 1652335619556,
+  :block/updated-at 1652335619556}
+ {:block/name "zettelkasten",
+  :block/created-at 1652369034449, 
+  :block/updated-at 1652369034449}]

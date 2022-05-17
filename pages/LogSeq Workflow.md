@@ -1,0 +1,8 @@
+- Arten von Sortierungen
+	- Namespaces
+	- Block & Page Properties
+- Verschiedene Note Typen
+	- fleeting, literature, reference, permanent, relevant
+	- tags: question, inbox, observation, story, reflection
+- properties für Inputs
+	- creator, link, tags, type
