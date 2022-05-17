@@ -392,6 +392,7 @@ html ::-webkit-scrollbar-thumb:hover {
   border-bottom: unset;
 }
 .content a.tag {
+  background: var(--ls-primary-background-color);
   color: var(--ls-icon-color);
   padding: 0px 0px 0px 0px;
   font-size: 15px;
