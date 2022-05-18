@@ -25,8 +25,11 @@ tags:: #readwise, #books
 	- We are able to get an erection and have sex only thanks to the powerful release of dopamine [10] . A period of abstinence from pornography and sexual arousal can regenerate the receptors in the brain and can allow us to once again become satisfied with the normal doses of dopamine secreted before or during intercourse with a woman. (Location 228)
 	- the longer someone has used porn and the higher quality it was, the longer the detox period will take. (Location 232)
 	- Coolidge effect. (Location 235)
+	  id:: 6282855a-e64c-4b19-b8a6-c096a5d763fc
 	- The appearance of a new female increases dopamine levels, stimulating the reward system. (Location 244)
+	  id:: 6282855a-9f9e-4a38-9c91-4275eb42823e
 	- its aim is to encourage us to reproduce and to conceive as many children as possible. Unfortunately, it also works when a man’s brain sees a naked woman on a computer screen. (Location 245)
+	  id:: 6282855a-1b65-46a3-81da-679cf84fc18a
 	- its aim is to encourage us to reproduce and to conceive as many children as possible. Unfortunately, it also works when a man’s brain sees a naked woman on a computer screen. When a man constantly sees the same woman, the brain quickly gets bored and the level of dopamine drops. (Location 245)
 	- Watching pornography, particularly a series of new videos with new women, leads to sustained high levels of dopamine. (Location 248)
 	- Watching pornography, particularly a series of new videos with new women, leads to sustained high levels of dopamine. This mechanism causes the viewer to become easily addicted to the constant hits of dopamine. (Location 248)
