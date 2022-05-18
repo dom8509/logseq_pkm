@@ -25,7 +25,9 @@ tags:: #readwise, #books
 	- as many as 10% of the students participating in it admitted that pornography lessened their desire to find a real partner, and 16% of those viewing pornography at least once a week confirmed a decline in desire. There were no such cases among the participants who didn’t use pornography. (Location 219)
 	  id:: 6282855a-9909-4b75-9618-33d929a19943
 	- We are able to get an erection and have sex only thanks to the powerful release of dopamine [10] . A period of abstinence from pornography and sexual arousal can regenerate the receptors in the brain and can allow us to once again become satisfied with the normal doses of dopamine secreted before or during intercourse with a woman. (Location 228)
+	  id:: 6282855a-2e86-4016-a3a3-e1a9f12cdc55
 	- the longer someone has used porn and the higher quality it was, the longer the detox period will take. (Location 232)
+	  id:: 6282855a-6513-4103-928c-d96e7129b39e
 	- Coolidge effect. (Location 235)
 	  id:: 6282855a-e64c-4b19-b8a6-c096a5d763fc
 	- The appearance of a new female increases dopamine levels, stimulating the reward system. (Location 244)
