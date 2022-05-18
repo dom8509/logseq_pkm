@@ -85,12 +85,15 @@
  {:block/name "fleeting",
   :block/created-at 1652441970037,
   :block/updated-at 1652441970037}
- {:block/name "fleeting note",
+ {:block/name "fleeting notes",
   :block/created-at 1652441724746,
   :block/updated-at 1652441724746}
  {:block/name "full range dips",
   :block/created-at 1651937282028,
   :block/updated-at 1651937282028}
+ {:block/name "gary wilson",
+  :block/created-at 1652800565646,
+  :block/updated-at 1652800565646}
  {:block/name "getting things done",
   :block/created-at 1652239007255,
   :block/updated-at 1652239007255}
@@ -130,7 +133,7 @@
  {:block/name "literature",
   :block/created-at 1652443172135,
   :block/updated-at 1652443172135}
- {:block/name "literature note",
+ {:block/name "literature notes",
   :block/created-at 1652443024931,
   :block/updated-at 1652443172137}
  {:block/name "logseq tasks",
@@ -171,7 +174,7 @@
   :block/updated-at 1652630743777}
  {:block/name "may 17th, 2022",
   :block/created-at 1652738481369,
-  :block/updated-at 1652798420055}
+  :block/updated-at 1652870348208}
  {:block/name "may 18th, 2022",
   :block/created-at 1652792629816,
   :block/updated-at 1652792629816}
@@ -199,6 +202,10 @@
  {:block/name "now",
   :block/created-at 1651927636723,
   :block/updated-at 1651927636723}
+ {:block/name
+  "nutze die zeit um das zu tun was dich glücklich macht und zu dem menschen werden lässt der zu sein willst.",
+  :block/created-at 1652800084409,
+  :block/updated-at 1652800084409}
  {:block/name "oct 11th, 2017",
   :block/created-at 1652630058796,
   :block/updated-at 1652630058796}
@@ -217,9 +224,9 @@
  {:block/name "permanent",
   :block/created-at 1652441119479,
   :block/updated-at 1652441119479}
- {:block/name "permanent note",
+ {:block/name "permanent notes",
   :block/created-at 1652441105199,
-  :block/updated-at 1652441119481}
+  :block/updated-at 1652800141837}
  {:block/name "poliquin step-up",
   :block/created-at 1652104662123,
   :block/updated-at 1652104662123}
@@ -243,14 +250,14 @@
   :block/updated-at 1652620338327}
  {:block/name "quit porn and get rich (readwise)",
   :block/created-at 1652720985780,
-  :block/updated-at 1652720985780}
+  :block/updated-at 1652808374649}
  {:block/name "readwise",
   :block/created-at 1652720197611,
   :block/updated-at 1652720197611}
- {:block/name "reference note",
+ {:block/name "reference notes",
   :block/created-at 1652622148700,
   :block/updated-at 1652622148700}
- {:block/name "relevant note",
+ {:block/name "relevant notes",
   :block/created-at 1652622163997,
   :block/updated-at 1652622163997}
  {:block/name "reverse nordic",
@@ -328,6 +335,9 @@
  {:block/name "what went well?",
   :block/created-at 1652335619556,
   :block/updated-at 1652335619556}
+ {:block/name "your brain on porn",
+  :block/created-at 1652800571475,
+  :block/updated-at 1652800571475}
  {:block/name "zettelkasten",
   :block/created-at 1652369034449, 
   :block/updated-at 1652369034449}]
