@@ -30,7 +30,6 @@ tags:: #readwise, #books
 	  id:: 6282855a-9f9e-4a38-9c91-4275eb42823e
 	- its aim is to encourage us to reproduce and to conceive as many children as possible. Unfortunately, it also works when a man’s brain sees a naked woman on a computer screen. When a man constantly sees the same woman, the brain quickly gets bored and the level of dopamine drops. (Location 245)
 	  id:: 6282855a-6e73-45aa-bf85-e41f6a967b99
-	- Watching pornography, particularly a series of new videos with new women, leads to sustained high levels of dopamine. (Location 248)
 	- Watching pornography, particularly a series of new videos with new women, leads to sustained high levels of dopamine. This mechanism causes the viewer to become easily addicted to the constant hits of dopamine. (Location 248)
 	- the reward system becomes more and more resistant to low doses of dopamine, and after a while only new pornography can cause it to spike. (Location 250)
 	- This is also one of the reasons why surfing the web is so engaging. Internet resources provide an endless supply of novelties. (Location 253)
