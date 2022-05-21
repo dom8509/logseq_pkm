@@ -1,22 +1,17 @@
 query-table:: false
 #+BEGIN_QUERY
-{:title " Scheduled TODOs"
-:query [:find (pull ?b [*])
-:where
-[?b :block/scheduled ?d]
-[?b :block/marker ?marker]
-[(not= ?d nil)]
-[(contains? #{"NOW" "LATER" "DOING" "TODO"} ?marker)]]
-:collapsed? false}
+{:title "All tasks"
+ :query [:find (pull ?b [*])
+         :where
+         [?b :block/marker _]]}
 #+END_QUERY
 
-- {{query (todo todo now later doing)}}
-  query-table:: false
-- query-table:: false
-  #+BEGIN_QUERY
-  {:title "All tasks"
+- #+BEGIN_QUERY
+  {:title "Journal blocks in last 7 days with a page reference of datalog"
    :query [:find (pull ?b [*])
+           :in $ ?start ?today ?tag
            :where
-           [?b :block/marker _]]}
+           (between ?b ?start ?today)
+           (page-ref ?b ?tag)]
+   :inputs [:7d-before :today "datalog"]}
   #+END_QUERY
--
