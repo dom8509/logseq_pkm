@@ -80,13 +80,3 @@ query-table:: false
     :inputs [:today :7d-after]
     :collapsed? false}
   #+END_QUERY
-- #+BEGIN_QUERY
-  {:title "🔴 STALLED"
-    :query [:find ?attr)
-            :where
-            [?e ?attr]
-    :collapsed? true}
-   ]}
-  #+END_QUERY
--
--
