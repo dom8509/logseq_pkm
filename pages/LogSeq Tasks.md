@@ -52,3 +52,17 @@ query-table:: false
                                    (get h :block/created-at)) result))
     :collapsed? true}
   #+END_QUERY
+- #+BEGIN_QUERY
+  {:title "🔴 STALLED"
+    :query [:find (pull ?h [*])
+            :in $ ?start ?today
+            :where
+            (task ?b #{"NOW" "LATER" "TODO" "DOING"})
+            (between ?b ?start ?today)]
+    :inputs [:56d :8d]
+    :result-transform (fn [result]
+                        (sort-by (fn [h]
+                                   (get h :block/created-at)) result))
+    :collapsed? true}
+   ]}
+  #+END_QUERY
