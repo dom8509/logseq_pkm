@@ -8,3 +8,4 @@
   [(contains? #{"NOW" "LATER" "DOING" "TODO"} ?marker)]]
   :collapsed? false}
   #+END_QUERY
+- {{query }}
