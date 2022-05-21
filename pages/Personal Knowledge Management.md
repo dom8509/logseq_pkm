@@ -3,7 +3,10 @@
 - ### Keywords
 - ### Map of Contents - MOC
 - ### Fleeting Notes
+	- Warum:
+		- Freiraum um Gedanken und
 - ### Evergreen Notes / Permanent Notes
+  collapsed:: true
 	- Warum:
 		- Konkreter Gedanke oder Idee
 	- Struktur:
@@ -12,7 +15,9 @@
 		- Block Referenz zu anderen Evergreen Notes
 		- 🔨 Anwendbare Infos 💡Erkenntnisse 🔍 Beobachtungen ❓Nächste Schritte
 		- Zusätzlicher Kontext und Beschreibung
-		-
+		- Tag Notes
+		- Literature Notes
+		- Fleeting Notes
 	- Verlinkt mit:
 		- Child of: Map of Content
 		- Parent of: Fleeting Notes, Literature Notes
