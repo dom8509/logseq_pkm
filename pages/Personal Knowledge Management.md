@@ -4,6 +4,9 @@
 - ### Map of Contents - MOC
 - ### Fleeting Notes
 - ### Evergreen Notes / Permanent Notes
-	- ==**Beinhaltet:**==
+	- Warum:
+	- Struktur
+	- Beinhaltet:
 		- 🔨 Anwendbare Infos 💡Erkenntnisse 🔍 Beobachtungen ❓Nächste Schriite
+	- Verlinkt mit:
 - ### Tag Notes
