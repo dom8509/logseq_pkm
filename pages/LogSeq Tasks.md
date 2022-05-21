@@ -10,4 +10,5 @@ query-table:: false
 :collapsed? false}
 #+END_QUERY
 
-- {{query }}
+- {{query (todo todo now later doing)}}
+  query-table:: false
