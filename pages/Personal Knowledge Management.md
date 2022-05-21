@@ -1,1 +1,5 @@
-- Reference Notes
+- [[Reference Notes]]
+- [[Literature Notes]]
+-
+- [[Fleeting Notes]]
+-
