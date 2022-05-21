@@ -5,5 +5,5 @@
 - ### Fleeting Notes
 - ### Evergreen Notes / Permanent Notes
 	- ==**Beinhaltet:**==
-		- 🔨 Aufgaben, 💡Erkenntnisse 🔍 Beobachtungen ❓
+		- 🔨 Anwendbare Infos 💡Erkenntnisse 🔍 Beobachtungen ❓Nächste Schriite
 - ### Tag Notes
