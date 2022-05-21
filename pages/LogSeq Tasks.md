@@ -79,3 +79,11 @@ query-table:: false
     :inputs [:today :7d-after]
     :collapsed? false}
   #+END_QUERY
+- #+BEGIN_QUERY
+  {:title "🔴 STALLED"
+    :query [:find (pull ?b [*])
+            :where
+            (task ?b #{"NOW" "LATER" "TODO" "DOING"})
+    :collapsed? true}
+   ]}
+  #+END_QUERY
