@@ -1,4 +1,4 @@
 - ## Bereiche
 	- [[Persönliche Entwicklung]]
-- ## Projekte
+	- [[Personal Knowledge Management]]
 - ## Keyword Index
