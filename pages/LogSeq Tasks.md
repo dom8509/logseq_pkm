@@ -54,7 +54,7 @@ query-table:: false
   #+END_QUERY
 - #+BEGIN_QUERY
   {:title "🔴 STALLED"
-    :query [:find (pull ?h [*])
+    :query [:find (pull ?b [*])
             :in $ ?start ?today
             :where
             (task ?b #{"NOW" "LATER" "TODO" "DOING"})
@@ -66,7 +66,8 @@ query-table:: false
     :collapsed? true}
    ]}
   #+END_QUERY
-- #+BEGIN_QUERY
+- query-table:: false
+  #+BEGIN_QUERY
   {:title "next 7 days' deadline or schedule"
     :query [:find (pull ?block [*])
             :in $ ?start ?next
