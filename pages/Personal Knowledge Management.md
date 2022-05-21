@@ -5,7 +5,9 @@
 - ### Fleeting Notes
 - ### Evergreen Notes / Permanent Notes
 	- Warum:
-	- Struktur
+		- Konkrete
+	- Struktur:
+		- Block - Link zu leerer Seite
 	- Beinhaltet:
 		- 🔨 Anwendbare Infos 💡Erkenntnisse 🔍 Beobachtungen ❓Nächste Schriite
 	- Verlinkt mit:
