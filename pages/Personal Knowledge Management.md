@@ -1,5 +1,7 @@
 - [[Reference Notes]]
-- [[Literature Notes]]
--
+- Literature Notes
+- Keywords
+- **Map of Contents - MOC**
 - [[Fleeting Notes]]
+- ### Tag Notes
 -
