@@ -13,6 +13,7 @@
 		- Child of: Evergreen Notes
 	- Beispiel:
 - ### Evergreen Notes / Permanent Notes
+  collapsed:: true
 	- Warum:
 		- Konkreter Gedanke oder Idee
 	- Struktur:
