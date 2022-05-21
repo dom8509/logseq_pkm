@@ -81,10 +81,11 @@ query-table:: false
   #+END_QUERY
 - #+BEGIN_QUERY
   {:title "🔴 STALLED"
-    :query [:find (pull ?attr [*])
+    :query [:find ?attr)
             :where
             [?e ?attr]
     :collapsed? true}
    ]}
   #+END_QUERY
+-
 -
