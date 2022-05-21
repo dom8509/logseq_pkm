@@ -4,9 +4,14 @@
 - ### Map of Contents - MOC
 - ### Fleeting Notes
 	- Warum:
-		- Freiraum um Gedanken und
+		- Freiraum um Gedanken und Evergreen Notes herauszuarbeiten
+	- Struktur:
+		- Block - Freier Text
+	- Beinhaltet:
+		-
+	- Verlinkungen:
+	- Beispiel:
 - ### Evergreen Notes / Permanent Notes
-  collapsed:: true
 	- Warum:
 		- Konkreter Gedanke oder Idee
 	- Struktur:
@@ -18,7 +23,7 @@
 		- Tag Notes
 		- Literature Notes
 		- Fleeting Notes
-	- Verlinkt mit:
+	- Verlinkungen:
 		- Child of: Map of Content
 		- Parent of: Fleeting Notes, Literature Notes
 	- Beispiel:
