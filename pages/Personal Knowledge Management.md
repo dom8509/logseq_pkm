@@ -8,8 +8,9 @@
 	- Struktur:
 		- Block - Freier Text
 	- Beinhaltet:
-		-
+		- Niedergeschriebene Gedanken wenn die Literature Notes in Evergreen Notes heruntergebrochen werden
 	- Verlinkungen:
+		- Child of: Evergreen Notes
 	- Beispiel:
 - ### Evergreen Notes / Permanent Notes
 	- Warum:
