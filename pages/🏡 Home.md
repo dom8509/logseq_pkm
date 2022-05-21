@@ -1,4 +1,3 @@
-- ## Bereiche
+- ## Keyword Index
 	- [[Persönliche Entwicklung]]
 	- [[Personal Knowledge Management]]
-- ## Keyword Index
