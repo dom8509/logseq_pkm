@@ -9,10 +9,13 @@
 	- Struktur:
 		- Block - Link zu leerer Seite
 	- Beinhaltet:
-		- 🔨 Anwendbare Infos 💡Erkenntnisse 🔍 Beobachtungen ❓Nächste Schriite
+		- Block Referenz zu anderen Evergreen Notes
+		- 🔨 Anwendbare Infos 💡Erkenntnisse 🔍 Beobachtungen ❓Nächste Schritte
+		- Zusätzlicher Kontext und Beschreibung
+		-
 	- Verlinkt mit:
 		- Child of: Map of Content
-		-
+		- Parent of: Fleeting Notes, Literature Notes
 	- Beispiel:
 		-
 - ### Tag Notes
