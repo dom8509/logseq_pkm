@@ -7,11 +7,25 @@ query-table:: false
 #+END_QUERY
 
 - #+BEGIN_QUERY
-  {:title "Journal blocks in last 7 days with a page reference of datalog"
-   :query [:find (pull ?b [*])
-           :in $ ?start ?today ?tag
-           :where
-           (between ?b ?start ?today)
-           (page-ref ?b ?tag)]
-   :inputs [:7d-before :today "datalog"]}
+  {:title "🟢 ACTIVE"
+    :query [:find (pull ?b [*])
+            :in $ ?start ?today
+            :where
+            (task ?b #{"NOW" "DOING"})
+            (between ?b ?start ?today)]
+    :inputs [:14d :today]
+    :result-transform (fn [result]
+                        (sort-by (fn [h]
+                                   (get h :block/priority "Z")) result))
+    :collapsed? false}
+  #+END_QUERY
+- #+BEGIN_QUERY
+   {:title "⚠️ OVERDUE"
+    :query [:find (pull ?b [*])
+            :in $ ?start ?today
+            :where
+            (task ?b #{"NOW" "LATER" "TODO" "DOING"})
+            (between ?b ?start ?today)]
+    :inputs [:56d :today]
+    :collapsed? false}
   #+END_QUERY
