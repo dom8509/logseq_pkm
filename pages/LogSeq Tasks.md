@@ -81,9 +81,10 @@ query-table:: false
   #+END_QUERY
 - #+BEGIN_QUERY
   {:title "🔴 STALLED"
-    :query [:find (pull ?b [*])
+    :query [:find (pull ?attr [*])
             :where
-            (task ?b #{"NOW" "LATER" "TODO" "DOING"})
+            [?e ?attr]
     :collapsed? true}
    ]}
   #+END_QUERY
+-
