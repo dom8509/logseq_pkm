@@ -40,6 +40,9 @@
  {:block/name "contents",
   :block/created-at 1651927636723,
   :block/updated-at 1651927636723}
+ {:block/name "coolidge effect",
+  :block/created-at 1653048472503,
+  :block/updated-at 1653048472503}
  {:block/name "creative note taking",
   :block/created-at 1652377862454,
   :block/updated-at 1652377862454}
@@ -49,6 +52,14 @@
  {:block/name "daily/habits",
   :block/created-at 1652617968854,
   :block/updated-at 1652618133133}
+ {:block/name
+  "die ausschüttung von dopamin in kleinen dosen erzeugt die motivation die nötig ist um auf ein ziel hin zu arbeiten",
+  :block/created-at 1653063656168,
+  :block/updated-at 1653063656168}
+ {:block/name
+  "die heutige pornografie zerstört die natürliche dopaminregulation",
+  :block/created-at 1653061312819,
+  :block/updated-at 1653061312819}
  {:block/name "doing",
   :block/created-at 1651927636723,
   :block/updated-at 1651927636723}
@@ -58,12 +69,9 @@
  {:block/name "dopamine",
   :block/created-at 1652710735834,
   :block/updated-at 1652710735834}
- {:block/name "draws/2022-05-13-14-27-20.excalidraw",
-  :block/created-at 1652614542439,
-  :block/updated-at 1652614542439}
- {:block/name "draws/2022-05-14-11-06-18.excalidraw",
-  :block/created-at 1652614542439,
-  :block/updated-at 1652614542439}
+ {:block/name "dopamine overload",
+  :block/created-at 1653048472506,
+  :block/updated-at 1653048472506}
  {:block/name "dreams",
   :block/created-at 1652335619545,
   :block/updated-at 1652335619545}
@@ -103,6 +111,9 @@
  {:block/name "gtd",
   :block/created-at 1652333293120,
   :block/updated-at 1652333293120}
+ {:block/name "hd pornografie",
+  :block/created-at 1653063704989,
+  :block/updated-at 1653063704989}
  {:block/name "idee",
   :block/created-at 1652619227168,
   :block/updated-at 1652619227168}
@@ -138,7 +149,7 @@
   :block/updated-at 1652443172137}
  {:block/name "logseq tasks",
   :block/created-at 1652362472263,
-  :block/updated-at 1652362572271}
+  :block/updated-at 1653143177922}
  {:block/name "logseq workflow",
   :block/created-at 1652333293720,
   :block/updated-at 1652362393443}
@@ -178,6 +189,15 @@
  {:block/name "may 18th, 2022",
   :block/created-at 1652792629816,
   :block/updated-at 1652792629816}
+ {:block/name "may 19th, 2022",
+  :block/created-at 1653048472374,
+  :block/updated-at 1653060430347}
+ {:block/name "may 20th, 2022",
+  :block/created-at 1653048472395,
+  :block/updated-at 1653065852205}
+ {:block/name "may 21st, 2022",
+  :block/created-at 1653084103482,
+  :block/updated-at 1653122076028}
  {:block/name "may 23rd, 2017",
   :block/created-at 1652630058027,
   :block/updated-at 1652630058027}
@@ -196,6 +216,19 @@
  {:block/name "morning pages",
   :block/created-at 1652335619539,
   :block/updated-at 1652335619539}
+ {:block/name "motivation",
+  :block/created-at 1653063114505,
+  :block/updated-at 1653063114505}
+ {:block/name
+  "neue sexualpartner sorgen für einen hohen dopamin-spiegel, wohingegen bei gleichbleibenden sexualpartnern der dopamin-spiegel immer weiter sinkt.",
+  :block/created-at 1653048471943,
+  :block/updated-at 1653048471943}
+ {:block/name "new page: porno",
+  :block/created-at 1653048471976,
+  :block/updated-at 1653048471976}
+ {:block/name "new page: pornog",
+  :block/created-at 1653048471987,
+  :block/updated-at 1653048471987}
  {:block/name "nordic",
   :block/created-at 1652104662124,
   :block/updated-at 1652104662124}
@@ -227,9 +260,19 @@
  {:block/name "permanent notes",
   :block/created-at 1652441105199,
   :block/updated-at 1652800141837}
+ {:block/name "personal knowledge management",
+  :block/created-at 1653151442331,
+  :block/updated-at 1653151442331}
+ {:block/name "persönliche entwicklung",
+  :block/created-at 1653151223180,
+  :block/updated-at 1653151223180}
  {:block/name "poliquin step-up",
   :block/created-at 1652104662123,
   :block/updated-at 1652104662123}
+ {:block/name
+  "pornografie führt zu einer abstumpfung gegen natürliche dopamin-quellen.",
+  :block/created-at 1653048471955,
+  :block/updated-at 1653048471955}
  {:block/name "projects",
   :block/created-at 1652285165218,
   :block/updated-at 1652285165218}
@@ -250,7 +293,7 @@
   :block/updated-at 1652620338327}
  {:block/name "quit porn and get rich (readwise)",
   :block/created-at 1652720985780,
-  :block/updated-at 1652808374649}
+  :block/updated-at 1653066058189}
  {:block/name "readwise",
   :block/created-at 1652720197611,
   :block/updated-at 1652720197611}
@@ -339,5 +382,8 @@
   :block/created-at 1652800571475,
   :block/updated-at 1652800571475}
  {:block/name "zettelkasten",
-  :block/created-at 1652369034449, 
-  :block/updated-at 1652369034449}]
+  :block/created-at 1652369034449,
+  :block/updated-at 1652369034449}
+ {:block/name "🏡 home",
+  :block/created-at 1653149928678, 
+  :block/updated-at 1653151481420}]
