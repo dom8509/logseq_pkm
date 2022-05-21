@@ -12,9 +12,11 @@ query-table:: false
 
 - {{query (todo todo now later doing)}}
   query-table:: false
-- #+BEGIN_QUERY
+- query-table:: false
+  #+BEGIN_QUERY
   {:title "All tasks"
    :query [:find (pull ?b [*])
            :where
            [?b :block/marker _]]}
   #+END_QUERY
+-
