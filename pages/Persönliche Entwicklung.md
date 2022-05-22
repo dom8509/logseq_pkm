@@ -1,6 +1,6 @@
 - testp
   id:: 628916a4-0c21-4c47-a40c-97829f8bc403
-	- pp [[Die heutige Pornografie zerstört die natürliche Dopaminregulation]]
+	- pp [[Die heutige Pornografie zerstört die natürliche Dopaminregulation]] #card
 	  id:: 628a2f89-7c1b-4047-b370-9fff54d6946f
 - ==Motivation== [[Die Ausschüttung von Dopamin in kleinen Dosen erzeugt die Motivation die Nötig ist um auf ein Ziel hin zu arbeiten]]
   id:: 628a1c43-4e79-4717-b258-01734dd44916
