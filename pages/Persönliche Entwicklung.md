@@ -6,5 +6,7 @@
   id:: 628a1c43-4e79-4717-b258-01734dd44916
 - ==Best Self== [[Nutze die Zeit um das zu tun was dich glücklich macht und zu dem Menschen werden lässt der zu sein willst.]]
 - ==Coolidge Effect== [[Neue Sexualpartner sorgen für einen hohen Dopamin-Spiegel, wohingegen bei gleichbleibenden Sexualpartnern der Dopamin-Spiegel immer weiter sinkt.]]
+  id:: 0b35ec43-a65a-4abb-83bf-3624ad107de3
 - ==Dopamine Overload== [[Pornografie führt zu einer Abstumpfung gegen natürliche Dopamin-Quellen.]]
+  id:: 9acf1702-43f1-40a7-b79d-d11da1a3f936
 -
