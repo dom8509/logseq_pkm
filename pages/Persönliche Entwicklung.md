@@ -1,4 +1,4 @@
-- ==test== [[Die heutige Pornografie zerstört die natürliche Dopaminregulation]]
+- ((628a1d0c-2d7a-464b-aa53-5b9bc0feed3a))
   id:: 628916a4-0c21-4c47-a40c-97829f8bc403
 - [[Pornografie führt zu einer Abstumpfung gegen natürliche Dopamin-Quellen.]]
 - [[Neue Sexualpartner sorgen für einen hohen Dopamin-Spiegel, wohingegen bei gleichbleibenden Sexualpartnern der Dopamin-Spiegel immer weiter sinkt.]]
