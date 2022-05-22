@@ -8,6 +8,7 @@
   id:: 628a2f44-7d60-42b2-adfb-2f87e61df14c
 - ==Coolidge Effect== [[Neue Sexualpartner sorgen für einen hohen Dopamin-Spiegel, wohingegen bei gleichbleibenden Sexualpartnern der Dopamin-Spiegel immer weiter sinkt.]]
   id:: 0b35ec43-a65a-4abb-83bf-3624ad107de3
-- ==Dopamine Overload== [[Pornografie führt zu einer Abstumpfung gegen natürliche Dopamin-Quellen.]]
+- ==Dopamine Overload== [[Pornografie führt zu einer Abstumpfung gegen natürliche Dopamin-Quellen.]] #card
   id:: 9acf1702-43f1-40a7-b79d-d11da1a3f936
+-
 -
