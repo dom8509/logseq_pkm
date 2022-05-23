@@ -5,7 +5,10 @@
 		- Seite mit Inhalt
 	- Beinhaltet:
 		- Meta Data über die Quelle, Buch, etc.
-		-
+	- Verlinkt mit:
+		- Parent of: Literature Notes
+		- Tag Notes: Personen
+	- Beispiel:
 - ### Literature Notes
 - ### Keywords
 - ### Map of Contents - MOC
