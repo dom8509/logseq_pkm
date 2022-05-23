@@ -14,6 +14,10 @@
 		- Zusammenfassung in meinen eigenen Worten
 	- STruktur:
 		- Block - Plain Text mit "🔑" + "🗒"
+	- Beinhaltet:
+		-
+	- Verlinkung:
+		- Child of: Reference Notes & Evergreen Notes
 - ### Keywords
 - ### Map of Contents - MOC
   collapsed:: true
