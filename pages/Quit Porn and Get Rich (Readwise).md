@@ -64,7 +64,7 @@ tags:: #readwise, #books
 	  id:: 62878498-cf6b-4b8b-8fab-47158a6fd657
 	- At the moment of a masturbation-induced orgasm, **testosterone** levels are relatively stable, and large amounts of **noradrenaline**, **adrenaline**, and **prolactin** are released into the bloodstream. [20] It is only in the case of regular masturbation that normal **testosterone** levels may decrease. (Location 360)
 	- ^^The reason for falling testosterone levels may be a deficiency of the micronutrients which are necessary to produce testosterone^^ [22] —for example, **zinc** and **selenium**—and which masturbating too often can flush out of the body. (Location 366) #testosteron
-	- ^^an elevated **prolactin** level for a longer time—through frequent masturbation, for example—can reduce **testosterone** levels.^^ (Location 370) #testosteron
+	- ^^Elevated **prolactin** level for a longer time—through frequent masturbation, for example—can reduce **testosterone** levels.^^ (Location 370) #testosteron
 	- Masturbation does not allow you to become satiated after sexual stimulation to the same extent as sex does, so you can assume that when this cycle is often repeated, elevated **prolactin** levels are sustained in the body. (Location 373)
 	- One cause of decreased libido [24] is a sharp decrease in androgen receptors (i.e., testosterone receptors) in the hypothalamus due to masturbating too frequently. The result is that the body stops feeling the presence of **testosterone** and we start behaving as if we don’t have enough of it. (Location 374)
 	- it can be concluded that sexual intercourse with a woman has an influence on increased **testosterone** levels in a man, (Location 383)
