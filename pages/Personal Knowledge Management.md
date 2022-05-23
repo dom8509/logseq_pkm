@@ -25,8 +25,11 @@
 		- Gruppiert MOCs
 		- Gruppiert relevante Literature Notes für die weitere Verarbeitung
 		- /now page
-	-
+	- Struktur
+		- Page - beinhaltet alle relevanten Notizen
 	- Beinhaltet
+	- Verlinkung:
+		- Child of: Home Page
 - ### Map of Contents - MOC
   collapsed:: true
 	- Warum:
