@@ -1,6 +1,11 @@
 - ### Reference Notes
 	- Wraum:
 		- Stellt Rückverfolgbarkeit zur Quelle sicher
+	- Struktur:
+		- Seite mit Inhalt
+	- Beinhaltet:
+		- Meta Data über die Quelle, Buch, etc.
+		-
 - ### Literature Notes
 - ### Keywords
 - ### Map of Contents - MOC
