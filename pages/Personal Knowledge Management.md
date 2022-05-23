@@ -3,6 +3,7 @@
 - ### Keywords
 - ### Map of Contents - MOC
 - ### Fleeting Notes
+  collapsed:: true
 	- Warum:
 		- Freiraum um Gedanken und Evergreen Notes herauszuarbeiten
 	- Struktur:

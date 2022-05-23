@@ -1,2 +1,3 @@
 - [[🏡 Home]]
+- [[Persönliche Entwicklung]]
 - [[Personal Knowledge Management]]
