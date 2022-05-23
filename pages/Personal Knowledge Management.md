@@ -45,4 +45,6 @@
 		- Stellt eine Verbindung zu anderen Konzepten oder Personen her
 		- Schafft eine weitere Schicht um Ideen in einer nicht hierarchischen Weise miteinander zu verknüpfen
 	- Struktur:
+		- Seite mit Inhalt
+	- Inhalt:
 		-
