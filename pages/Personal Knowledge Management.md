@@ -5,10 +5,11 @@
 	- Warum:
 		- Schafft eine hirarchische Struktur für Evergreen-Notizen
 	- Struktur:
-		- Block - Verlinkt mit
+		- Block - Verlinkt mit leerer Seite
 	- Beinhaltet:
-		- Niedergeschriebene Gedanken wenn die Literature Notes in Evergreen Notes heruntergebrochen werden
+		- Sub-Blöcke zu einer Idee oder einem Thema
 	- Verlinkungen:
+		-
 		- Child of: Evergreen Notes
 	- Beispiel:
 - ### Fleeting Notes
