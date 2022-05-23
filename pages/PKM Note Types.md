@@ -22,7 +22,6 @@
 		- Child of: Reference Notes & Evergreen Notes
 	- Beispiel:
 - ### Keywords
-  collapsed:: true
 	- Wraum:
 		- Aktuelle Projekte und Interessen
 		- Gruppiert MOCs
