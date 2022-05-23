@@ -46,5 +46,8 @@
 		- Schafft eine weitere Schicht um Ideen in einer nicht hierarchischen Weise miteinander zu verknüpfen
 	- Struktur:
 		- Seite mit Inhalt
-	- Inhalt:
-		-
+	- Beinhaltet:
+		- bestehende Informationen über Konzepte, Ideen oder Personen
+		- Link zu Quellmaterial
+	- Verlinkungen:
+		- Child of:
