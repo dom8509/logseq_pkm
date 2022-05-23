@@ -2,6 +2,7 @@
 - ### Literature Notes
 - ### Keywords
 - ### Map of Contents - MOC
+  collapsed:: true
 	- Warum:
 		- Schafft eine hirarchische Struktur für Evergreen-Notizen
 	- Struktur:
@@ -9,10 +10,11 @@
 	- Beinhaltet:
 		- Sub-Blöcke zu einer Idee oder einem Thema
 	- Verlinkungen:
-		-
-		- Child of: Evergreen Notes
+		- Parent of: Evergreen Notes
+		- Child of: Keywords
 	- Beispiel:
 - ### Fleeting Notes
+  collapsed:: true
 	- Warum:
 		- Freiraum um Gedanken und Evergreen Notes herauszuarbeiten
 	- Struktur:
@@ -23,6 +25,7 @@
 		- Child of: Evergreen Notes
 	- Beispiel:
 - ### Evergreen Notes / Permanent Notes
+  collapsed:: true
 	- Warum:
 		- Konkreter Gedanke oder Idee
 	- Struktur:
