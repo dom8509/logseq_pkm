@@ -21,7 +21,12 @@
 	- Beispiel:
 - ### Keywords
 	- Wraum:
-		-
+		- Aktuelle Projekte und Interessen
+		- Gruppiert MOCs
+		- Gruppiert relevante Literature Notes für die weitere Verarbeitung
+		- /now page
+	-
+	- Beinhaltet
 - ### Map of Contents - MOC
   collapsed:: true
 	- Warum:
