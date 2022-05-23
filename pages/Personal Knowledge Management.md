@@ -1,3 +1,5 @@
+- [[PKM Note Types]]
+-
 - ### Reference Notes
 	- Wraum:
 		- Stellt Rückverfolgbarkeit zur Quelle sicher
