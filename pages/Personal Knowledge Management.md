@@ -2,7 +2,15 @@
 - ### Literature Notes
 - ### Keywords
 - ### Map of Contents - MOC
-	-
+	- Warum:
+		- Schafft eine hirarchische Struktur für Evergreen-Notizen
+	- Struktur:
+		- Block - Verlinkt mit
+	- Beinhaltet:
+		- Niedergeschriebene Gedanken wenn die Literature Notes in Evergreen Notes heruntergebrochen werden
+	- Verlinkungen:
+		- Child of: Evergreen Notes
+	- Beispiel:
 - ### Fleeting Notes
 	- Warum:
 		- Freiraum um Gedanken und Evergreen Notes herauszuarbeiten
