@@ -25,7 +25,6 @@
 		- Child of: Evergreen Notes
 	- Beispiel:
 - ### Evergreen Notes / Permanent Notes
-  collapsed:: true
 	- Warum:
 		- Konkreter Gedanke oder Idee
 	- Struktur:
@@ -41,5 +40,7 @@
 		- Child of: Map of Content
 		- Parent of: Fleeting Notes, Literature Notes
 	- Beispiel:
-		-
 - ### Tag Notes
+	- Warum:
+		- Stellt eine Verbindung zu anderen Konzepten oder Personen her
+		- Schafft eine weitere Schicht um
