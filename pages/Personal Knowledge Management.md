@@ -28,8 +28,11 @@
 	- Struktur
 		- Page - beinhaltet alle relevanten Notizen
 	- Beinhaltet
+		- MOCs
+		- Relevante Literature Notes
 	- Verlinkung:
 		- Child of: Home Page
+		- Parent of: MOCs
 - ### Map of Contents - MOC
   collapsed:: true
 	- Warum:
