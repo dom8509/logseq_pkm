@@ -20,6 +20,8 @@
 		- Child of: Reference Notes & Evergreen Notes
 	- Beispiel:
 - ### Keywords
+	- Wraum:
+		-
 - ### Map of Contents - MOC
   collapsed:: true
 	- Warum:
@@ -44,6 +46,7 @@
 		- Child of: Evergreen Notes
 	- Beispiel:
 - ### Evergreen Notes / Permanent Notes
+  collapsed:: true
 	- Warum:
 		- Konkreter Gedanke oder Idee
 	- Struktur:
