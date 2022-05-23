@@ -11,7 +11,9 @@
 	- Beispiel:
 - ### Literature Notes
 	- Warum:
-		-
+		- Zusammenfassung in meinen eigenen Worten
+	- STruktur:
+		- Block - Plain Text mit "🔑" + "🗒"
 - ### Keywords
 - ### Map of Contents - MOC
   collapsed:: true
