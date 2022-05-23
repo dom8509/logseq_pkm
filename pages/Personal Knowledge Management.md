@@ -50,4 +50,4 @@
 		- bestehende Informationen über Konzepte, Ideen oder Personen
 		- Link zu Quellmaterial
 	- Verlinkungen:
-		- Child of:
+		- Child of: Evergreen Notes
