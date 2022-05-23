@@ -12,12 +12,13 @@
 - ### Literature Notes
 	- Warum:
 		- Zusammenfassung in meinen eigenen Worten
-	- STruktur:
+	- Struktur:
 		- Block - Plain Text mit "🔑" + "🗒"
 	- Beinhaltet:
-		-
+		- Ideen zu dem gelesenen mit meinen eigenen Worten sowie weitere Gedanken dazu
 	- Verlinkung:
 		- Child of: Reference Notes & Evergreen Notes
+	- Beispiel:
 - ### Keywords
 - ### Map of Contents - MOC
   collapsed:: true
