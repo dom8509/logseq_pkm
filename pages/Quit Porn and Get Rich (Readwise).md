@@ -45,8 +45,10 @@ tags:: #readwise, #books
 		- ((62878498-7913-419a-96df-3d56c6c6b773))
 	- Watching pornography, particularly a series of new videos with new women, leads to sustained high levels of dopamine. This mechanism causes the viewer to become easily addicted to the constant hits of dopamine. (Location 248)
 	  id:: 6282855a-2f23-45c5-a5fe-5ef1b1c8663a
+		- ((62878498-78e3-4ab7-8041-220f40fcbf7b))
 	- The reward system becomes more and more resistant to low doses of dopamine, and after a while only new pornography can cause it to spike. (Location 250)
 	  id:: 6282855a-c801-4cac-ac9b-cf8f87986ade
+		- ((62878498-5290-4017-9c23-c2c6f54c19eb))
 	- This is also one of the reasons why surfing the web is so engaging. Internet resources provide an ^^endless supply of novelties^^. (Location 253)
 	- It’s easy to guess that a brain which has just seen dozens of naked women within a few minutes on the Internet is unlikely to be permanently stimulated by one real-life woman. The dopamine influx won’t be powerful enough to act on the reproductive organs. (Location 257)
 	- This system rewards us with dopamine for food, reproduction, love, achievements, friendship, and novelty. The higher the dopamine production is during a given activity, the more we desire it. (Location 260)
