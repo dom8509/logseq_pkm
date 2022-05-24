@@ -51,12 +51,15 @@ tags:: #readwise, #books
 	- However, the accumulation of large doses of dopamine destroys some of the receptors, and the brain becomes desensitized to smaller amounts of dopamine, which can lead to feeling down in the dumps. (Location 267)
 	- Dopamine is not just connected with rewards. It is also responsible for our pursuit of a reward, our anticipation, and desire. ^^Dopamine spurs incentive motivation^^; this is what pushes us to achieve long-term objectives and win potential prizes. When we are striving for a goal, small doses of dopamine are secreted naturally. Thanks to that, we become focused, our senses are sharpened, and our muscles can do more than usual. ^^The motivational feature of the reward system is essential for achieving happiness and satisfaction^^. (Location 269)
 	  id:: 62878498-48a2-40e0-92ca-7b4deabddd1c
+		- ((628a4921-5a3c-4140-97c9-cf0b940bedec))
 	- When we meet an attractive woman, the brain triggers a small rush of dopamine, which increases our level of motivation. This motivation encourages us to approach the woman, talk to her, impress her, and invite her somewhere. (Location 277)
 	  id:: 62878498-9f21-4a46-b515-93e348305d98
 	- Pornography objectifies women. As a result, the only thing that we come to expect from them is the rush from a large dose of dopamine. (Location 285)
 	- constant virtual encounters with sexual stimuli anesthetize the reward system, a system that is based on small amounts of dopamine which are necessary for creating the motivation needed to maintain a normal relationship and finding a partner. (Location 287)
 	- ^^We need motivation in order to work, learn, find ideas, build businesses, and to set life goals and realize them. It is not worth forfeiting such an important driving force of the body for temporary pleasures in the form of artificial stimuli.^^ (Location 290)
 	  id:: 62878498-6b7d-4502-b6f3-a5df075095fc
+		- ((628a4921-65e3-488a-bc71-8119caab976f))
+		- 🗒 Motivation ist das was uns antreibt, uns auf Ziele hinarbeiten lässt und dem Leben einen Sinn gibt.
 	- we subconsciously form a mental pattern, leading ourselves to believe that any other actions or efforts will not provide us with so much pleasure so easily. (Location 297)
 	- supernormal stimulus. This is a stimulus whose effect on instinctive behavior is directly proportional to the level of its exaggeration. (Location 309)
 	- What Tinbergen developed is called the supernormal stimulus. This is a stimulus whose effect on instinctive behavior is directly proportional to the level of its exaggeration. (Location 309)
