@@ -14,7 +14,7 @@ tags:: #readwise, #books
 	  id:: 6282855a-2c8c-46a4-b9fc-386f38d498da
 	- Sexual stimuli could lead to such consequences as **physical changes in the brain, sexual dysfunction, depression, chronic laziness, social anxiety**, and—in extreme cases—disorders of the reproductive system. (Location 114)
 	  id:: 6282855a-ef70-429a-9048-6bd4885fa321
-		- 🗒 Sexuelle Stimuli führen zu physikalischen Veränderungen im Gehirn, sexuelle Dysfunktion, Depression, chronische Unlust und sozialen Ängsten und
+		- ((628d069b-5d08-45d1-a98d-54c533b4da0e))
 	- facts about the problem of pornography and guidelines on how to overcome an addiction to it are widely discussed and available on the Internet for free. I urge you to search for them. (Location 125) #Inbox
 	- Releasing the sexual tension built up by a natural libido will not result in physical or psychological problems. What changes masturbation into something unhealthy, against human nature (substantially increasing frequency and compulsiveness [4] ), is pornography. (Location 147)
 	  id:: 6282855a-2606-4f5e-af94-1fde8f7ab5d7
