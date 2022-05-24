@@ -8,7 +8,7 @@ tags:: #readwise, #books
 	- Life is short, don’t waste it watching someone else’s. (Location 56)
 	  id:: 6282855a-1a97-46b6-9395-2703fc35747f
 		- ((628d04f6-b448-4e3d-9041-9770563176ba))
-		- 🗒 Zeit ist eines der wichtigsten Güter die wir im Leben haben.
+		- ((628d0b61-9ca8-4f2f-95cb-13f9a022f0c5))
 	- We do not have to prove to ourselves and others what we are capable of. But what if we do not really know what we are capable of? (Location 84)
 	  id:: 6282855a-3791-4523-9ff7-6dd8a0e2cec6
 	- Your life can be rich in experience, rich in professional successes, rich in kindness to others, rich in family happiness, and materially rich as well. Or you can spend it in front of the computer, watching strangers copulating. (Location 89)
