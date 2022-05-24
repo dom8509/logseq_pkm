@@ -3,6 +3,7 @@
 - # Keyword Index
 	- [[Persönliche Entwicklung]]
 	- [[Personal Knowledge Management]]
+	- [[Creative Note Taking]]
 	- [[The Mind Illuminated]]
 	- [[Breatwork]]
 	- [[ATG]]
