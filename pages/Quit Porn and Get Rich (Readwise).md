@@ -19,6 +19,7 @@ tags:: #readwise, #books
 	- Releasing the sexual tension built up by a natural libido will not result in physical or psychological problems. What changes masturbation into something unhealthy, against human nature (substantially increasing frequency and compulsiveness [4] ), is pornography. (Location 147)
 	  id:: 6282855a-2606-4f5e-af94-1fde8f7ab5d7
 		- ((628a4921-8719-48dd-81d2-0f026cb3b40e))
+		- ((628a4921-bb6a-4c5b-8202-749eeb7d4e88))
 	- Why is it that sporadic cases of such behavior may lead to increased frequency or addiction? Because pornography and masturbation provide massive, momentary pleasure, (Location 152)
 	- One of the people who investigated the porn issue is [[Gary Wilson]] , in his book, [[Your Brain on Porn]] (Location 184)
 	- Do any of the following symptoms seem familiar to you? ●   ​ a lack of satisfaction and contentment derived from everyday activities or entertainment ●   ​ lingering bitterness and a lack of enthusiasm ●   ​ neglect of responsibilities and sloppy work performance ●   ​ chronic fatigue ●   ​ a lack of motivation ●   ​ difficulty concentrating and deteriorated short-term memory ●   ​ memory problems ●   ​ growing social anxiety ●   ​ reduced libido ●   ​ shyness ●   ​ general anxiety or a desire to hide ●   ​ irrational fear ●   ​ an imagination that often generates sexual images ●   ​ constant sexual tension and lack of satisfaction after orgasm ●   ​ problems getting/maintaining an erection during intercourse ●   ​ problems achieving orgasm during intercourse ●   ​ odd pelvic pain ●   ​ objectification of women ●   ​ the need for stronger and stronger stimuli, more vulgar pornography, and new fetishes These (Location 190)
@@ -29,6 +30,7 @@ tags:: #readwise, #books
 		- ((628a4921-3940-4872-9890-674c884d23dd))
 	- As many as 10% of the students participating in it admitted that pornography lessened their desire to find a real partner, and 16% of those viewing pornography at least once a week confirmed a decline in desire. There were no such cases among the participants who didn’t use pornography. (Location 219)
 	  id:: 6282855a-9909-4b75-9618-33d929a19943
+		- ((628a4921-ba93-4a23-ac8b-2463a0d39e06))
 	- We are able to get an erection and have sex only thanks to the powerful release of dopamine [10] . A period of abstinence from pornography and sexual arousal can regenerate the receptors in the brain and can allow us to once again become satisfied with the normal doses of dopamine secreted before or during intercourse with a woman. (Location 228)
 	  id:: 6282855a-2e86-4016-a3a3-e1a9f12cdc55
 	- The longer someone has used porn and the higher quality it was, the longer the detox period will take. (Location 232)
