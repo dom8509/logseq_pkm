@@ -13,7 +13,7 @@ tags:: #readwise, #books
 	  id:: 6282855a-3791-4523-9ff7-6dd8a0e2cec6
 	- Your life can be rich in experience, rich in professional successes, rich in kindness to others, rich in family happiness, and materially rich as well. Or you can spend it in front of the computer, watching strangers copulating. (Location 89)
 	  id:: 6282855a-2c8c-46a4-b9fc-386f38d498da
-		- Das Leben kann voller Wunder, Freunschaften, Erfolg, Mitgefühl und Freude sein. Oder man kann es
+		- ((628d0bdd-a4de-4bbc-905a-fce6b9f0279f))
 	- Sexual stimuli could lead to such consequences as **physical changes in the brain, sexual dysfunction, depression, chronic laziness, social anxiety**, and—in extreme cases—disorders of the reproductive system. (Location 114)
 	  id:: 6282855a-ef70-429a-9048-6bd4885fa321
 		- ((628d069b-5d08-45d1-a98d-54c533b4da0e))
