@@ -176,7 +176,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :mobile/toolbar-stats {:bold {:counts 1}, :brand-youtube {:counts 0}, :checkbox {:counts 0}, :parentheses {:counts 1}, :command {:counts 0}, :paint {:counts 0}, :list {:counts 6}, :link {:counts 1}, :strikethrough {:counts 1}, :code {:counts 1}, :camera {:counts 0}, :rotate {:counts 1}, :tag {:counts 2}, :brackets {:counts 22}, :italic {:counts 0}, :a-b {:counts 1}, :rotate-clockwise {:counts 1}}
+ :mobile/toolbar-stats {:bold {:counts 1}, :brand-youtube {:counts 0}, :checkbox {:counts 0}, :parentheses {:counts 1}, :command {:counts 0}, :paint {:counts 0}, :list {:counts 6}, :link {:counts 1}, :strikethrough {:counts 1}, :code {:counts 1}, :camera {:counts 0}, :rotate {:counts 1}, :tag {:counts 2}, :brackets {:counts 23}, :italic {:counts 0}, :a-b {:counts 1}, :rotate-clockwise {:counts 1}}
  :favorites ["🏡 home" "Permanent Notes" "inbox" "to" "Question" "logseq tasks" "logseq workflow" "projects"]
  :graph/settings {:builtin-pages? false, :journal? false, :orphan-pages? false}
 
