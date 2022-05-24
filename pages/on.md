@@ -1,0 +1,1 @@
+- Namespace für Gedanken zu einem Bestimmten Thema.
