@@ -39,6 +39,7 @@ tags:: #readwise, #books
 	  id:: 6282855a-e64c-4b19-b8a6-c096a5d763fc
 	- The appearance of a new female increases dopamine levels, stimulating the reward system. (Location 244)
 	  id:: 6282855a-9f9e-4a38-9c91-4275eb42823e
+		- ((62878498-9d8b-4f31-847d-ca5e594a3780))
 	- Its aim is to encourage us to reproduce and to conceive as many children as possible. Unfortunately, it also works when a man’s brain sees a naked woman on a computer screen. When a man constantly sees the same woman, the brain quickly gets bored and the level of dopamine drops. (Location 245)
 	  id:: 6282855a-6e73-45aa-bf85-e41f6a967b99
 		- ((62878498-7913-419a-96df-3d56c6c6b773))
