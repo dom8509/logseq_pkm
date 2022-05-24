@@ -59,7 +59,7 @@ tags:: #readwise, #books
 	- ^^We need motivation in order to work, learn, find ideas, build businesses, and to set life goals and realize them. It is not worth forfeiting such an important driving force of the body for temporary pleasures in the form of artificial stimuli.^^ (Location 290)
 	  id:: 62878498-6b7d-4502-b6f3-a5df075095fc
 		- ((628a4921-65e3-488a-bc71-8119caab976f))
-		- 🗒 Motivation ist das was uns antreibt, uns auf Ziele hinarbeiten lässt und dem Leben einen Sinn gibt.
+		- ((628a4921-e6bc-4698-aafe-49b2da532470))
 	- we subconsciously form a mental pattern, leading ourselves to believe that any other actions or efforts will not provide us with so much pleasure so easily. (Location 297)
 	- supernormal stimulus. This is a stimulus whose effect on instinctive behavior is directly proportional to the level of its exaggeration. (Location 309)
 	- What Tinbergen developed is called the supernormal stimulus. This is a stimulus whose effect on instinctive behavior is directly proportional to the level of its exaggeration. (Location 309)
