@@ -7,6 +7,7 @@ tags:: #readwise, #books
 - ## Highlights
 	- Life is short, don’t waste it watching someone else’s. (Location 56)
 	  id:: 6282855a-1a97-46b6-9395-2703fc35747f
+		- 🗒 Wenn man seine Zeit und Energie auf
 	- We do not have to prove to ourselves and others what we are capable of. But what if we do not really know what we are capable of? (Location 84)
 	  id:: 6282855a-3791-4523-9ff7-6dd8a0e2cec6
 	- Your life can be rich in experience, rich in professional successes, rich in kindness to others, rich in family happiness, and materially rich as well. Or you can spend it in front of the computer, watching strangers copulating. (Location 89)
