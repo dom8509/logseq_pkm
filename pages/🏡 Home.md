@@ -7,4 +7,3 @@
 	- [[Breatwork]]
 	- [[ATG]]
 	- [[Softwareentwicklung]]
-	-
