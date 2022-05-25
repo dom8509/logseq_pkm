@@ -113,7 +113,12 @@ tags:: #readwise, #books
 			- Man fühlt sich weniger männliche
 			- ängstlichkeit
 			- soziopathie
-			- oft haben Männer weichere Knochen, schlecht ausgeprägte Mus
+			- oft haben Männer
+				- weichere Knochen
+				- schlecht ausgeprägte Muskeln
+				- neigen zu fettleibigkeit
+				- Brustansatz
+				- höheres Level an schlechtem Cholesterol (LDL)
 	- excessive **testosterone** levels may cause bald spots, faster development of an enlarged prostate, lower good cholesterol levels (HDL), or fits of aggression. (Location 391)
 	- The inflow of large doses of dopamine during stimulation and orgasm are a drain on the reward system, which may result in feelings of dejection and disappointment during other activities. (Location 402)
 	- the amount of **prolactin** secreted after sex is up to 400% higher than the rise in prolactin after masturbation. [29] (Location 404)
