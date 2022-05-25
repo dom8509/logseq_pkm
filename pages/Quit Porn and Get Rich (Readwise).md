@@ -85,7 +85,7 @@ tags:: #readwise, #books
 		- 🗒 Ein Supernormal Stimulus ist ein Stimulus an den man sich nach und nach Gewöhnt und somit bei regelmäßigem Konsum immer mehr braucht um neue Dopaminspitzen zu erzeugen. Dazu gehören z.B. Pornografie, Drogen aber auch Nahrungsmittel mit viel Fett oder Zucker.
 	- it takes approximately 70 days. (Location 331)
 	- The ejaculate itself consists of valuable vitamins and minerals that are collected from the entire body. It is made up of enzymes, proteins, amino acids, flavonoids, zinc, selenium, and vitamin C. Most of the chemicals necessary to create a new supply of sperm are also needed for the proper functioning of other organs. (Location 332)
-		- 🗒 Sparma besteht aus einer großen Menge an Vitaminen und Mineralien.
+		- 🗒 Sparma besteht aus einer großen Menge an Vitaminen und Mineralien. Die meisten Stoffe die bei der Eakulation abgegeben werden werden auch von anderen Organen des Körpers benötigt und müssen deshalb
 	- A single ejaculation can cause a slight fatigue of the body, whereas frequent ejaculation can result in a deficiency of micronutrients and vitamins, and even faintness. (Location 335)
 	- opinion—self-confidence has more to do with undertaking challenges, being competitive, taking risks, or being a leader. (Location 342)
 	- production occurs chiefly in the testes and to a small extent in the adrenal glands (Location 351)
