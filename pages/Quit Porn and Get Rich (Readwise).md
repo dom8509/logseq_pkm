@@ -71,8 +71,8 @@ tags:: #readwise, #books
 	  id:: 62878498-9f21-4a46-b515-93e348305d98
 		- 🗒 Wenn wir einem Partner begegnen setzt das Gehirn kleine Dosen an Dopamin frei was unsere Motivation steigert. Dadurch gehen wir aus uns heraus, wollen den Gegenüber beindrucken, werden redselig, ...
 	- Pornography objectifies women. As a result, the only thing that we come to expect from them is the rush from a large dose of dopamine. (Location 285)
-		- Pornografie degradiert Frauen zu Objekten.
-	- constant virtual encounters with sexual stimuli anesthetize the reward system, a system that is based on small amounts of dopamine which are necessary for creating the motivation needed to maintain a normal relationship and finding a partner. (Location 287)
+		- 🗒 Pornografie degradiert Frauen zu Objekten. Dadurch lernt unser Gehirn dass alles was es von Frauen erwarten kann eine hohe Dosis an Dopamin ist => Dopaminlieferanten, Dealer
+	- Constant virtual encounters with sexual stimuli anesthetize the reward system, a system that is based on small amounts of dopamine which are necessary for creating the motivation needed to maintain a normal relationship and finding a partner. (Location 287)
 	- ^^We need motivation in order to work, learn, find ideas, build businesses, and to set life goals and realize them. It is not worth forfeiting such an important driving force of the body for temporary pleasures in the form of artificial stimuli.^^ (Location 290)
 	  id:: 62878498-6b7d-4502-b6f3-a5df075095fc
 		- ((628a4921-65e3-488a-bc71-8119caab976f))
