@@ -87,9 +87,9 @@ tags:: #readwise, #books
 	- The ejaculate itself consists of valuable vitamins and minerals that are collected from the entire body. It is made up of enzymes, proteins, amino acids, flavonoids, zinc, selenium, and vitamin C. Most of the chemicals necessary to create a new supply of sperm are also needed for the proper functioning of other organs. (Location 332)
 		- 🗒 Sparma besteht aus einer großen Menge an Vitaminen und Mineralien. Die meisten Stoffe die bei der Eakulation abgegeben werden werden auch von anderen Organen des Körpers benötigt und müssen deshalb regeneriert werden.
 	- A single ejaculation can cause a slight fatigue of the body, whereas frequent ejaculation can result in a deficiency of micronutrients and vitamins, and even faintness. (Location 335)
-		- 🗒 Eine einzelne Eakulation führt bereits zu einer Ermüdung des Körpers. Häufe
-	- opinion—self-confidence has more to do with undertaking challenges, being competitive, taking risks, or being a leader. (Location 342)
-	- production occurs chiefly in the testes and to a small extent in the adrenal glands (Location 351)
+		- 🗒 Eine einzelne Eakulation führt bereits zu einer Ermüdung des Körpers. Häufe Eakulation kann zu einem Mangel an Mikronährstoffen und Vitaminen führen.
+	- Opinion—self-confidence has more to do with undertaking challenges, being competitive, taking risks, or being a leader. (Location 342)
+	- Testosteron production occurs chiefly in the testes and to a small extent in the adrenal glands (Location 351)
 	- **Testosteron** plays a decisive role during sexual maturation, and in the development and growth of the sex organs. It also helps to build and maintain bone density, to increase muscle mass and strength, and to break down fat. It stimulates the production of red blood cells and semen. Thanks to **testosterone**, we feel confident, strong, level-headed, and calm; we easily cope with stressful situations and can manage risk. **Testosterone** kindles the need to discover and explore the world. There is a direct dependence, meaning that a high level of **testosterone** implies increased exploratory activity. (Location 352)
 	  id:: 62878498-cf6b-4b8b-8fab-47158a6fd657
 	- At the moment of a masturbation-induced orgasm, **testosterone** levels are relatively stable, and large amounts of **noradrenaline**, **adrenaline**, and **prolactin** are released into the bloodstream. [20] It is only in the case of regular masturbation that normal **testosterone** levels may decrease. (Location 360)
