@@ -63,7 +63,7 @@ tags:: #readwise, #books
 	- This system rewards us with dopamine for food, reproduction, love, achievements, friendship, and novelty. The higher the dopamine production is during a given activity, the more we desire it. (Location 260)
 		- 🗒 Unser instinktives System sichert unser Überleben und belohnt uns deshalb mit Dopamin für Essen, Fortpflanzung, Liebe, Errungenschaften, Freundschaften und Neuem. Je höher die Dopaminausschüttung desto mehr begehren wir etwas.
 	- However, the accumulation of large doses of dopamine destroys some of the receptors, and the brain becomes desensitized to smaller amounts of dopamine, which can lead to feeling down in the dumps. (Location 267)
-		- Bei hohen Dosen an Dopamin werden einige der RE
+		- 🗒 Bei hohen Dosen an Dopamin werden einige der Rezeptoren zerstört was sie weniger empfänglich gegenüber leichteren Dosen macht,
 	- Dopamine is not just connected with rewards. It is also responsible for our pursuit of a reward, our anticipation, and desire. ^^Dopamine spurs incentive motivation^^; this is what pushes us to achieve long-term objectives and win potential prizes. When we are striving for a goal, small doses of dopamine are secreted naturally. Thanks to that, we become focused, our senses are sharpened, and our muscles can do more than usual. ^^The motivational feature of the reward system is essential for achieving happiness and satisfaction^^. (Location 269)
 	  id:: 62878498-48a2-40e0-92ca-7b4deabddd1c
 		- ((628a4921-5a3c-4140-97c9-cf0b940bedec))
