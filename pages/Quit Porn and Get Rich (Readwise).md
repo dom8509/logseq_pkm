@@ -25,7 +25,7 @@ tags:: #readwise, #books
 	  id:: 6282855a-2606-4f5e-af94-1fde8f7ab5d7
 		- ((628a4921-8719-48dd-81d2-0f026cb3b40e))
 	- Why is it that sporadic cases of such behavior may lead to increased frequency or addiction? Because pornography and masturbation provide massive, momentary pleasure, (Location 152)
-		-
+		- Internetpornografie und Masturbation erzeugt eine massive temporäre Befriedigung, was zu einer höheren Konsumfrequenz und
 	- One of the people who investigated the porn issue is [[Gary Wilson]] , in his book, [[Your Brain on Porn]] (Location 184)
 	- Do any of the following symptoms seem familiar to you? ●   ​ a lack of satisfaction and contentment derived from everyday activities or entertainment ●   ​ lingering bitterness and a lack of enthusiasm ●   ​ neglect of responsibilities and sloppy work performance ●   ​ chronic fatigue ●   ​ a lack of motivation ●   ​ difficulty concentrating and deteriorated short-term memory ●   ​ memory problems ●   ​ growing social anxiety ●   ​ reduced libido ●   ​ shyness ●   ​ general anxiety or a desire to hide ●   ​ irrational fear ●   ​ an imagination that often generates sexual images ●   ​ constant sexual tension and lack of satisfaction after orgasm ●   ​ problems getting/maintaining an erection during intercourse ●   ​ problems achieving orgasm during intercourse ●   ​ odd pelvic pain ●   ​ objectification of women ●   ​ the need for stronger and stronger stimuli, more vulgar pornography, and new fetishes These (Location 190)
 	  id:: 6282855a-56c6-4bd2-a6ff-808ca7f3555d
