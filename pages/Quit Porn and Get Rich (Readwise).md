@@ -118,9 +118,11 @@ tags:: #readwise, #books
 				- schlecht ausgeprägte Muskeln
 				- neigen zu fettleibigkeit
 				- Brustansatz
+				- Kreislaufprobleme
 				- höheres Level an schlechtem Cholesterol (LDL)
-	- excessive **testosterone** levels may cause bald spots, faster development of an enlarged prostate, lower good cholesterol levels (HDL), or fits of aggression. (Location 391)
+				- neurologische und psychologische Probleme
+	- Excessive **testosterone** levels may cause bald spots, faster development of an enlarged prostate, lower good cholesterol levels (HDL), or fits of aggression. (Location 391)
 	- The inflow of large doses of dopamine during stimulation and orgasm are a drain on the reward system, which may result in feelings of dejection and disappointment during other activities. (Location 402)
-	- the amount of **prolactin** secreted after sex is up to 400% higher than the rise in prolactin after masturbation. [29] (Location 404)
+	- The amount of **prolactin** secreted after sex is up to 400% higher than the rise in prolactin after masturbation. [29] (Location 404)
 	- depression is one of the main reasons why people develop addictions. (Location 408)
 	- The reward system and the endocrine system, especially dopamine and **testosterone**, play a key role in a man’s life. Watching pornography and frequently masturbating can contribute to an imbalance in these systems, and thus of the body and of the functioning of the brain. This, in turn, can ruin your motivation, deprive you of pleasure from everyday things, lower your self-confidence, (Location 412)
