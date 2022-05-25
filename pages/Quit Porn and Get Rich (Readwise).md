@@ -110,7 +110,10 @@ tags:: #readwise, #books
 	- Lowered **testosterone** levels cause a lack of confidence, a feeling of less masculinity, fearfulness, and sociopathy. Men with low levels of testosterone often have soft bones, poorly developed muscle tissue, obesity, a greater tendency for gynecomastia (breast formation), an increased risk of cardiovascular disease, higher levels of bad cholesterol (LDL), and neurological and psychological problems. (Location 388)
 		- 🗒 Symptome eines verirngerten Testosteron Levels:
 			- Geringeres Selbstvertrauen
-			-
+			- Man fühlt sich weniger männliche
+			- ängstlichkeit
+			- soziopathie
+			- oft haben Männer weichere Knochen, schlecht ausgeprägte Mus
 	- excessive **testosterone** levels may cause bald spots, faster development of an enlarged prostate, lower good cholesterol levels (HDL), or fits of aggression. (Location 391)
 	- The inflow of large doses of dopamine during stimulation and orgasm are a drain on the reward system, which may result in feelings of dejection and disappointment during other activities. (Location 402)
 	- the amount of **prolactin** secreted after sex is up to 400% higher than the rise in prolactin after masturbation. [29] (Location 404)
