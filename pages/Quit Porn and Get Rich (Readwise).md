@@ -82,7 +82,7 @@ tags:: #readwise, #books
 		- :🗒 Wir beginnen unterbewusst nach dem Muster und Glauben zu handeln dass nicht anderes als Pornografie einen so viel und so leicht Befriedigung schenken kann.
 	- What Tinbergen developed is called the ==supernormal stimulus==. This is a stimulus whose effect on instinctive behavior is directly proportional to the level of its exaggeration. (Location 309)
 	- sugar and fat became a very strong stimulus for collecting food and obtaining energy. (Location 313)
-		- Ein Supernormla Stu
+		- Ein Supernormla Stimulus ist ein Stimulus an den man sich nach und nach Gewöhnt und somit bei regelmäßigem Konsum immer mehr braucht um neue Dopaminspitzen zu erzeugen. Dazu gehören z.B. Pornografie, Drogen aber auch Nahrung
 	- it takes approximately 70 days. (Location 331)
 	- The ejaculate itself consists of valuable vitamins and minerals that are collected from the entire body. It is made up of enzymes, proteins, amino acids, flavonoids, zinc, selenium, and vitamin C. (Location 332)
 	- The ejaculate itself consists of valuable vitamins and minerals that are collected from the entire body. It is made up of enzymes, proteins, amino acids, flavonoids, zinc, selenium, and vitamin C. Most of the chemicals necessary to create a new supply of sperm are also needed for the proper functioning of other organs. (Location 332)
