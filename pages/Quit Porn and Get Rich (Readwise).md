@@ -11,10 +11,11 @@ tags:: #readwise, #books
 		- ((628d0b61-9ca8-4f2f-95cb-13f9a022f0c5))
 	- We do not have to prove to ourselves and others what we are capable of. But what if we do not really know what we are capable of? (Location 84)
 	  id:: 6282855a-3791-4523-9ff7-6dd8a0e2cec6
-		- Um zu erkennen dass man niemandem etwas beweisen muss muss man zuerst erkennen dass man sich selbst nichts beweisen muss.
+		- 🗒 Um zu erkennen dass man niemandem etwas beweisen muss muss man zuerst erkennen dass man sich selbst nichts beweisen muss.
 	- Your life can be rich in experience, rich in professional successes, rich in kindness to others, rich in family happiness, and materially rich as well. Or you can spend it in front of the computer, watching strangers copulating. (Location 89)
 	  id:: 6282855a-2c8c-46a4-b9fc-386f38d498da
 		- ((628d0bdd-a4de-4bbc-905a-fce6b9f0279f))
+		- Ziemlich hartes Statement, trifft aber den Nagel auf den Kopf und entspricht ziemlich dem ersten Testauszug.
 	- Sexual stimuli could lead to such consequences as **physical changes in the brain, sexual dysfunction, depression, chronic laziness, social anxiety**, and—in extreme cases—disorders of the reproductive system. (Location 114)
 	  id:: 6282855a-ef70-429a-9048-6bd4885fa321
 		- ((628d069b-5d08-45d1-a98d-54c533b4da0e))
