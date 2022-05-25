@@ -25,7 +25,7 @@ tags:: #readwise, #books
 	  id:: 6282855a-2606-4f5e-af94-1fde8f7ab5d7
 		- ((628a4921-8719-48dd-81d2-0f026cb3b40e))
 	- Why is it that sporadic cases of such behavior may lead to increased frequency or addiction? Because pornography and masturbation provide massive, momentary pleasure, (Location 152)
-		- Internetpornografie und Masturbation erzeugt eine massive temporäre Befriedigung, was zu einer höheren Konsumfrequenz und Abhängigkeit führt.
+		- 🗒 Internetpornografie und Masturbation erzeugt eine massive temporäre Befriedigung, was zu einer höheren Konsumfrequenz und Abhängigkeit führt.
 	- One of the people who investigated the porn issue is [[Gary Wilson]] , in his book, [[Your Brain on Porn]] (Location 184)
 	- Do any of the following symptoms seem familiar to you? ●   ​ a lack of satisfaction and contentment derived from everyday activities or entertainment ●   ​ lingering bitterness and a lack of enthusiasm ●   ​ neglect of responsibilities and sloppy work performance ●   ​ chronic fatigue ●   ​ a lack of motivation ●   ​ difficulty concentrating and deteriorated short-term memory ●   ​ memory problems ●   ​ growing social anxiety ●   ​ reduced libido ●   ​ shyness ●   ​ general anxiety or a desire to hide ●   ​ irrational fear ●   ​ an imagination that often generates sexual images ●   ​ constant sexual tension and lack of satisfaction after orgasm ●   ​ problems getting/maintaining an erection during intercourse ●   ​ problems achieving orgasm during intercourse ●   ​ odd pelvic pain ●   ​ objectification of women ●   ​ the need for stronger and stronger stimuli, more vulgar pornography, and new fetishes These (Location 190)
 	  id:: 6282855a-56c6-4bd2-a6ff-808ca7f3555d
@@ -38,10 +38,10 @@ tags:: #readwise, #books
 		- ((628a4921-ba93-4a23-ac8b-2463a0d39e06))
 	- We are able to get an erection and have sex only thanks to the powerful release of dopamine [10] . A period of abstinence from pornography and sexual arousal can regenerate the receptors in the brain and can allow us to once again become satisfied with the normal doses of dopamine secreted before or during intercourse with a woman. (Location 228)
 	  id:: 6282855a-2e86-4016-a3a3-e1a9f12cdc55
-		- Durch Dopamin haben wir ein Verlangen nach Sex und bekommen eine Erektion. Nach einer Abstinez von Pornografie und sexuellen Simuli können sich die Rezeptoren regenerieren und werden wieder empfänglich für normale Dosen an Dopanin.
+		- 🗒 Durch Dopamin haben wir ein Verlangen nach Sex und bekommen eine Erektion. Nach einer Abstinez von Pornografie und sexuellen Simuli können sich die Rezeptoren regenerieren und werden wieder empfänglich für normale Dosen an Dopanin.
 	- The longer someone has used porn and the higher quality it was, the longer the detox period will take. (Location 232)
 	  id:: 6282855a-6513-4103-928c-d96e7129b39e
-		- Je länger jemand Pornografie konzumiert hat und je höher die Qualität / Dosen, desto länger kann er Detox brauchen.
+		- 🗒 Je länger jemand Pornografie konzumiert hat und je höher die Qualität / Dosen, desto länger kann er Detox brauchen.
 	- Coolidge effect. (Location 235)
 	  id:: 6282855a-e64c-4b19-b8a6-c096a5d763fc
 	- The appearance of a new female increases dopamine levels, stimulating the reward system. (Location 244)
@@ -57,7 +57,7 @@ tags:: #readwise, #books
 	  id:: 6282855a-c801-4cac-ac9b-cf8f87986ade
 		- ((62878498-5290-4017-9c23-c2c6f54c19eb))
 	- This is also one of the reasons why surfing the web is so engaging. Internet resources provide an ^^endless supply of novelties^^. (Location 253)
-		- Das Surfen im Internet ist so aufregend weil es den Nutzenr mit einer nie aufhörenden Dosis von Neuem versorgt.
+		- 🗒 Das Surfen im Internet ist so aufregend weil es den Nutzer mit einer nie aufhörenden Dosis von Neuem versorgt was wiederum Dopamin freisetzt.
 	- It’s easy to guess that a brain which has just seen dozens of naked women within a few minutes on the Internet is unlikely to be permanently stimulated by one real-life woman. The dopamine influx won’t be powerful enough to act on the reproductive organs. (Location 257)
 	- This system rewards us with dopamine for food, reproduction, love, achievements, friendship, and novelty. The higher the dopamine production is during a given activity, the more we desire it. (Location 260)
 	- However, the accumulation of large doses of dopamine destroys some of the receptors, and the brain becomes desensitized to smaller amounts of dopamine, which can lead to feeling down in the dumps. (Location 267)
