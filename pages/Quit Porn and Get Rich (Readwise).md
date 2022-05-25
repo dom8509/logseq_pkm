@@ -41,7 +41,7 @@ tags:: #readwise, #books
 		- Durch Dopamin haben wir ein Verlangen nach Sex und bekommen eine Erektion. Nach einer Abstinez von Pornografie und sexuellen Simuli können sich die Rezeptoren regenerieren und werden wieder empfänglich für normale Dosen an Dopanin.
 	- The longer someone has used porn and the higher quality it was, the longer the detox period will take. (Location 232)
 	  id:: 6282855a-6513-4103-928c-d96e7129b39e
-		- Je länger
+		- Je länger jemand Pornografie konzumiert hat und je höher die Qualität / Dosen, desto länger kann er Detox brauchen.
 	- Coolidge effect. (Location 235)
 	  id:: 6282855a-e64c-4b19-b8a6-c096a5d763fc
 	- The appearance of a new female increases dopamine levels, stimulating the reward system. (Location 244)
