@@ -59,8 +59,9 @@ tags:: #readwise, #books
 	- This is also one of the reasons why surfing the web is so engaging. Internet resources provide an ^^endless supply of novelties^^. (Location 253)
 		- 🗒 Das Surfen im Internet ist so aufregend weil es den Nutzer mit einer nie aufhörenden Dosis von Neuem versorgt was wiederum Dopamin freisetzt.
 	- It’s easy to guess that a brain which has just seen dozens of naked women within a few minutes on the Internet is unlikely to be permanently stimulated by one real-life woman. The dopamine influx won’t be powerful enough to act on the reproductive organs. (Location 257)
-		- 🗒 Es ist klar dass ein Gehirn dass ständig neuen Reizen und Dopaminspitzen durch Internetpornografie ausgesetzt ist nicht mehr von
+		- 🗒 Es ist klar dass ein Gehirn dass ständig neuen Reizen und Dopaminspitzen durch Internetpornografie ausgesetzt ist nicht mehr von natürlichen Reizen mit echten Frauen stimuliert werden kann da diese Reize nicht mehr stark genug sind.
 	- This system rewards us with dopamine for food, reproduction, love, achievements, friendship, and novelty. The higher the dopamine production is during a given activity, the more we desire it. (Location 260)
+		-
 	- However, the accumulation of large doses of dopamine destroys some of the receptors, and the brain becomes desensitized to smaller amounts of dopamine, which can lead to feeling down in the dumps. (Location 267)
 	- Dopamine is not just connected with rewards. It is also responsible for our pursuit of a reward, our anticipation, and desire. ^^Dopamine spurs incentive motivation^^; this is what pushes us to achieve long-term objectives and win potential prizes. When we are striving for a goal, small doses of dopamine are secreted naturally. Thanks to that, we become focused, our senses are sharpened, and our muscles can do more than usual. ^^The motivational feature of the reward system is essential for achieving happiness and satisfaction^^. (Location 269)
 	  id:: 62878498-48a2-40e0-92ca-7b4deabddd1c
