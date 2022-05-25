@@ -96,7 +96,7 @@ tags:: #readwise, #books
 		- ((628be040-9328-4c8c-99c7-b2cfa2284921))
 		- ((628be040-8913-429f-88f2-3cd6060a17c5))
 	- At the moment of a masturbation-induced orgasm, **testosterone** levels are relatively stable, and large amounts of **noradrenaline**, **adrenaline**, and **prolactin** are released into the bloodstream. [20] It is only in the case of regular masturbation that normal **testosterone** levels may decrease. (Location 360)
-		- 🗒 Zum Zeitpunkt des Orgasmus ist das Testosteron Level relativ stabil und große Mengen von **Noradrenalin**, **Adrenalin** und **Prolactin** werden in die Blutbahn abgegeben.
+		- 🗒 Zum Zeitpunkt des Orgasmus ist das Testosteron Level relativ stabil und große Mengen von **Noradrenalin**, **Adrenalin** und **Prolactin** werden in die Blutbahn abgegeben.  Nur bei regelmäßiger Masturbation kommt es zu einer Abnahme des Testosteronspiegels.
 	- ^^The reason for falling testosterone levels may be a deficiency of the micronutrients which are necessary to produce testosterone^^ [22] —for example, **zinc** and **selenium**—and which masturbating too often can flush out of the body. (Location 366)
 		- Ein Grund für den sinkende Testosteronspiegel ist wahrscheinlich ein Mangel an Mikronährstoffen wie z.B. Zink und Selenium, die bei der Eakulation ausgeschieden werden.
 	- ^^Elevated **prolactin** level for a longer time—through frequent masturbation, for example—can reduce **testosterone** levels.^^ (Location 370)
