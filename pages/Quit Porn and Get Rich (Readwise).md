@@ -101,7 +101,8 @@ tags:: #readwise, #books
 		- Ein Grund für den sinkende Testosteronspiegel ist wahrscheinlich ein Mangel an Mikronährstoffen wie z.B. Zink und Selenium, die bei der Eakulation ausgeschieden werden.
 	- ^^Elevated **prolactin** level for a longer time—through frequent masturbation, for example—can reduce **testosterone** levels.^^ (Location 370)
 	- Masturbation does not allow you to become satiated after sexual stimulation to the same extent as sex does, so you can assume that when this cycle is often repeated, elevated **prolactin** levels are sustained in the body. (Location 373)
-		- Masturbation sorgt nicht für die gleiche Zufriedenheit wie Sex, weshalb es viel häufiger
+		- 🗒 Masturbation sorgt nicht für die gleiche Zufriedenheit wie Sex, weshalb es viel häufiger wiederholt werden muss und es in folge zu einem dauerhaft höheren **Prolactin** Spiegel im Blut kommt.
+		- ❓
 	- One cause of decreased libido [24] is a sharp decrease in androgen receptors (i.e., testosterone receptors) in the hypothalamus due to masturbating too frequently. The result is that the body stops feeling the presence of **testosterone** and we start behaving as if we don’t have enough of it. (Location 374)
 	- it can be concluded that sexual intercourse with a woman has an influence on increased **testosterone** levels in a man, (Location 383)
 	- Lowered **testosterone** levels cause a lack of confidence, a feeling of less masculinity, fearfulness, and sociopathy. Men with low levels of testosterone often have soft bones, poorly developed muscle tissue, obesity, a greater tendency for gynecomastia (breast formation), an increased risk of cardiovascular disease, higher levels of bad cholesterol (LDL), and neurological and psychological problems. (Location 388)
