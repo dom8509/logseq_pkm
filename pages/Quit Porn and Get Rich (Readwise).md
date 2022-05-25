@@ -84,9 +84,8 @@ tags:: #readwise, #books
 	- sugar and fat became a very strong stimulus for collecting food and obtaining energy. (Location 313)
 		- 🗒 Ein Supernormal Stimulus ist ein Stimulus an den man sich nach und nach Gewöhnt und somit bei regelmäßigem Konsum immer mehr braucht um neue Dopaminspitzen zu erzeugen. Dazu gehören z.B. Pornografie, Drogen aber auch Nahrungsmittel mit viel Fett oder Zucker.
 	- it takes approximately 70 days. (Location 331)
-	- The ejaculate itself consists of valuable vitamins and minerals that are collected from the entire body. It is made up of enzymes, proteins, amino acids, flavonoids, zinc, selenium, and vitamin C. (Location 332)
-		- 🗒 Sparma besteht aus einer großen Menge an Vimainen und Mineralien die
 	- The ejaculate itself consists of valuable vitamins and minerals that are collected from the entire body. It is made up of enzymes, proteins, amino acids, flavonoids, zinc, selenium, and vitamin C. Most of the chemicals necessary to create a new supply of sperm are also needed for the proper functioning of other organs. (Location 332)
+		- 🗒 Sparma besteht aus einer großen Menge an Vitaminen und Mineralien.
 	- A single ejaculation can cause a slight fatigue of the body, whereas frequent ejaculation can result in a deficiency of micronutrients and vitamins, and even faintness. (Location 335)
 	- opinion—self-confidence has more to do with undertaking challenges, being competitive, taking risks, or being a leader. (Location 342)
 	- production occurs chiefly in the testes and to a small extent in the adrenal glands (Location 351)
