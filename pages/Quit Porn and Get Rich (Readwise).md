@@ -69,6 +69,7 @@ tags:: #readwise, #books
 		- ((628a4921-5a3c-4140-97c9-cf0b940bedec))
 	- When we meet an attractive woman, the brain triggers a small rush of dopamine, which increases our level of motivation. This motivation encourages us to approach the woman, talk to her, impress her, and invite her somewhere. (Location 277)
 	  id:: 62878498-9f21-4a46-b515-93e348305d98
+		- Wenn wir einem Partner begegnen setzt das Gehirn kleine Dosen an Dopamin frei was unsere Motivation steigert.
 	- Pornography objectifies women. As a result, the only thing that we come to expect from them is the rush from a large dose of dopamine. (Location 285)
 	- constant virtual encounters with sexual stimuli anesthetize the reward system, a system that is based on small amounts of dopamine which are necessary for creating the motivation needed to maintain a normal relationship and finding a partner. (Location 287)
 	- ^^We need motivation in order to work, learn, find ideas, build businesses, and to set life goals and realize them. It is not worth forfeiting such an important driving force of the body for temporary pleasures in the form of artificial stimuli.^^ (Location 290)
