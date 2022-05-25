@@ -105,7 +105,8 @@ tags:: #readwise, #books
 		- ❓Was macht [[Prolactin]] im Körper?
 	- One cause of decreased libido [24] is a sharp decrease in androgen receptors (i.e., testosterone receptors) in the hypothalamus due to masturbating too frequently. The result is that the body stops feeling the presence of **testosterone** and we start behaving as if we don’t have enough of it. (Location 374)
 		- 🗒 Eine Ursache für eine verringerte Libido bei häufiger Masturbation ist die Abname der Androgen RezeptorenIm Hypothalamus. Als Folge verhält sich der Körper so als hätte er zu wenig **Testosteron**.
-	- it can be concluded that sexual intercourse with a woman has an influence on increased **testosterone** levels in a man, (Location 383)
+	- It can be concluded that sexual intercourse with a woman has an influence on increased **testosterone** levels in a man. (Location 383)
+		- 🗒 Der Verkehr mit echten Frauen hat direkt Einfluss auf das Testosteron Level des Mannes.
 	- Lowered **testosterone** levels cause a lack of confidence, a feeling of less masculinity, fearfulness, and sociopathy. Men with low levels of testosterone often have soft bones, poorly developed muscle tissue, obesity, a greater tendency for gynecomastia (breast formation), an increased risk of cardiovascular disease, higher levels of bad cholesterol (LDL), and neurological and psychological problems. (Location 388)
 	- excessive **testosterone** levels may cause bald spots, faster development of an enlarged prostate, lower good cholesterol levels (HDL), or fits of aggression. (Location 391)
 	- The inflow of large doses of dopamine during stimulation and orgasm are a drain on the reward system, which may result in feelings of dejection and disappointment during other activities. (Location 402)
