@@ -79,6 +79,7 @@ tags:: #readwise, #books
 		- ((628a4921-65e3-488a-bc71-8119caab976f))
 		- ((628a4921-e6bc-4698-aafe-49b2da532470))
 	- We subconsciously form a mental pattern, leading ourselves to believe that any other actions or efforts will not provide us with so much pleasure so easily. (Location 297)
+		- Wir beginnen unterbewusst nach dem Muster und Glauben zu handeln dass nicht anderes als Pornografie einen so viel und so leicht Befriedigung schenken kann.
 	- supernormal stimulus. This is a stimulus whose effect on instinctive behavior is directly proportional to the level of its exaggeration. (Location 309)
 	- What Tinbergen developed is called the supernormal stimulus. This is a stimulus whose effect on instinctive behavior is directly proportional to the level of its exaggeration. (Location 309)
 	- sugar and fat became a very strong stimulus for collecting food and obtaining energy. (Location 313)
