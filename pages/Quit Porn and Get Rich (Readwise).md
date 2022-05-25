@@ -73,12 +73,12 @@ tags:: #readwise, #books
 	- Pornography objectifies women. As a result, the only thing that we come to expect from them is the rush from a large dose of dopamine. (Location 285)
 		- 🗒 Pornografie degradiert Frauen zu Objekten. Dadurch lernt unser Gehirn dass alles was es von Frauen erwarten kann eine hohe Dosis an Dopamin ist => Dopaminlieferanten, Dealer
 	- Constant virtual encounters with sexual stimuli anesthetize the reward system, a system that is based on small amounts of dopamine which are necessary for creating the motivation needed to maintain a normal relationship and finding a partner. (Location 287)
-		- Regelmäßiger Konsum von Pornografie stumpft das Belohnungssystem ab, da dies auf kleine
+		- 🗒 Regelmäßiger Konsum von Pornografie stumpft das Belohnungssystem ab, da dies auf kleine Dopamin Stimuli angewiesen ist die uns Motivation für die Täglichen Aufgaben geben.
 	- ^^We need motivation in order to work, learn, find ideas, build businesses, and to set life goals and realize them. It is not worth forfeiting such an important driving force of the body for temporary pleasures in the form of artificial stimuli.^^ (Location 290)
 	  id:: 62878498-6b7d-4502-b6f3-a5df075095fc
 		- ((628a4921-65e3-488a-bc71-8119caab976f))
 		- ((628a4921-e6bc-4698-aafe-49b2da532470))
-	- we subconsciously form a mental pattern, leading ourselves to believe that any other actions or efforts will not provide us with so much pleasure so easily. (Location 297)
+	- We subconsciously form a mental pattern, leading ourselves to believe that any other actions or efforts will not provide us with so much pleasure so easily. (Location 297)
 	- supernormal stimulus. This is a stimulus whose effect on instinctive behavior is directly proportional to the level of its exaggeration. (Location 309)
 	- What Tinbergen developed is called the supernormal stimulus. This is a stimulus whose effect on instinctive behavior is directly proportional to the level of its exaggeration. (Location 309)
 	- sugar and fat became a very strong stimulus for collecting food and obtaining energy. (Location 313)
