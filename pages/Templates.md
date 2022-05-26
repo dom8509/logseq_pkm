@@ -123,5 +123,3 @@ tags::
 	  collapsed:: true
 		- Ca. 12 Übungen zwischen den Standhaltungen und Shavasana
 		- Ziel-Asana immer in Kategorie 11 oder 12
-	-
-	-
