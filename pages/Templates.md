@@ -68,6 +68,7 @@ tags::
 	- Wie kann ich nächste Woche ein bisschen besser werden?
 	-
 - [[Yogastunde]]
+  title::
   status:: Idee
   type:: Alignment
   element::
