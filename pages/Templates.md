@@ -72,7 +72,8 @@ tags::
   status:: Idee
   type:: Alignment
   element::
-  posture category::
+  posture-category:: Rückbeugen
+  goal-asana:: Kamel
   tags::
   template:: Yogastunde/Alignment
 	- ### Thema
