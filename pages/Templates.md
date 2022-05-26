@@ -68,11 +68,11 @@ tags::
 	- Wie kann ich nächste Woche ein bisschen besser werden?
 	-
 - [[Yogastunde]]
-  title::
+  title:: tt
   status:: Idee
   type:: Alignment
   element::
-  posture-category::
+  posture-category:: te
   goal-asana::
   tags::
   template:: Yogastunde/Alignment
