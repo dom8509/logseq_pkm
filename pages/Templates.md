@@ -72,6 +72,7 @@ tags::
   status:: Idee
   type:: Alignment
   element::
+  posture category::
   tags::
   template:: Yogastunde/Alignment
 	- ### Thema
