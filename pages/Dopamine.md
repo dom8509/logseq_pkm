@@ -1,4 +1,4 @@
-tags:: on/dopamine, test
+tags:: on/dopamine
 
 - #test2
 -
