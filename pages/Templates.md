@@ -67,9 +67,3 @@ tags::
 		-
 	- Wie kann ich nächste Woche ein bisschen besser werden?
 		-
-- [[Yogastunde]]
-  status::
-  type::
-  element::
-  tags::
-  template:: Yogastunde
