@@ -1,5 +1,5 @@
 - {{query [[Yogastunde]] }}
   query-table:: true
-  query-properties:: [:title :status :type :element :tags]
+  query-properties:: [:title :element :tags :posture-category]
 -
 -
