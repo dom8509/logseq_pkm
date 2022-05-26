@@ -1,5 +1,5 @@
 - {{query [[Yogastunde]] }}
   query-table:: true
-  query-properties:: [:title :element :tags :posture-category]
+  query-properties:: [:title :element :posture-category :goal-asana]
 -
 -
