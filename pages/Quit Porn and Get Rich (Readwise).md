@@ -2,7 +2,6 @@ title:: Quit Porn and Get Rich (Readwise)
 alias:: Quit Porn and Get Rich
 author:: [[Martin Prescott]]
 tags:: #readwise, #books
-type:: #book
 
 - ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_429352/1c02d46a-2efe-4d4d-91da-e9659bcbf702.jpg){:height 230, :width 144}
 - ## Highlights
