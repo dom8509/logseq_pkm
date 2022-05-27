@@ -14,13 +14,13 @@ alias:: TMI
 - Folding of road: Jump between stages forward and back
 -
 - Die 7 Probleme
-	- # Prokrastination und Widerstand gegen die Praxis
+	- Prokrastination und Widerstand gegen die Praxis
 	- ### Ursachen:
-	- [Trägheit und Lethargie](https://www.notion.so/Tr-gheit-und-Lethargie-7588ae28c53445a895775d16f61ea9af)
+	- Trägheit und Lethargie
 		- Zweifel
 		- Ablenkungen, Vergessen und umherschweifende Gedanken
 		- Ungeduld
 		- Monkey-Mind
 		- Selbstzweifel
 		- Dumpfheit, Benommenheit und Schläfrigkeit
-		- [Körperliches Unwohlsein ](https://www.notion.so/K-rperliches-Unwohlsein-2c600ec5ea214d019db0fdfd0a6c018b)
+		- Körperliches Unwohlsein
