@@ -1,4 +1,14 @@
 alias:: TMI
 
 - ![conference-calm-abiding-meditation-poster-for-10-1_1728x.jpg](../assets/conference-calm-abiding-meditation-poster-for-10-1_1728x_1653653203953_0.jpg)
--
+- Monk: Meditator
+- Rope: vigilant (wachsam), alert Mindfulness
+- Goad: Strong intention and firm resolve (feste Entschlossenheit)
+- Elephant: Mind
+- Black Color of Elephant: Five Hindrances and seven Problems
+- Monkey: scattering of attention
+- Black color of Monkey: Subtle and gross distraction, forgetting and mind-wandering
+- Rabbit: Subtle dullness (subtile Dumpfheit)
+- Flames: Vigilance and effort
+- Length of road: relative time required to progress between states
+- Folding of road: Jump between stages forward and back
