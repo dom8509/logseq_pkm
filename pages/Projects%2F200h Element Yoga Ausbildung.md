@@ -1,6 +1,6 @@
 DOING title:: Projects/200h Element Yoga Ausbildung
 status::
-tags:: yoga
+tags:: on/yoga
 :LOGBOOK:
 CLOCK: [2022-05-13 Fri 17:03:40]
 :END:
