@@ -22,12 +22,8 @@ alias:: TMI
 	- Dumpfheit, Benommenheit und Schläfrigkeit
 	- Körperliches Unwohlsein
 - Die 5 Hindernisse:
-	-
 	- Weltliches Begehren
-	  Abneigung](https://www.notion.so/Abneigung-2a779f04874c461fac89f2c7dc1ad6b5)
-	  
-	  [Trägheit und Lethargie](https://www.notion.so/Tr-gheit-und-Lethargie-7588ae28c53445a895775d16f61ea9af)
-	  
-	  [Unruhe aufgrund von Gewissensbissen und Sorgen](https://www.notion.so/Unruhe-aufgrund-von-Gewissensbissen-und-Sorgen-dcbc4f127354406b9efb78168dd18676)
-	  
-	  [Zweifel](https://www.notion.so/Zweifel-ca37b70dc3954822a285431723f3ae61)
+	- Abneigung
+	- Trägheit und Lethargie
+	- Unruhe aufgrund von Gewissensbissen und Sorgen
+	- Zweifel
