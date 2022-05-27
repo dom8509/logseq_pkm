@@ -3,5 +3,3 @@ alias:: Sitzende Vorbeuge
 
 -
 -
-- title:: Asana/[[Sitzende Vorbeuge
--
