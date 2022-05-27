@@ -1,6 +1,6 @@
 alias:: TMI
 
-- ![conference-calm-abiding-meditation-poster-for-10-1_1728x.jpg](../assets/conference-calm-abiding-meditation-poster-for-10-1_1728x_1653653203953_0.jpg)
+- ![conference-calm-abiding-meditation-poster-for-10-1_1728x.jpg](../assets/conference-calm-abiding-meditation-poster-for-10-1_1728x_1653653203953_0.jpg){:height 1061, :width 776}
 - Monk: Meditator
 - Rope: vigilant (wachsam), alert Mindfulness
 - Goad: Strong intention and firm resolve (feste Entschlossenheit)
